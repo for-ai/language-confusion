@@ -102,8 +102,8 @@ def compute_metrics(completions: Iterable[str], lang: str) -> dict[str, float]:
 
 def compute_all_metrics(outputs: list[dict]) -> dict[str, dict[str, float]]:
     """
-    Takes the outputs from a model and returns all the WPR and LPR metrics (WPR and LPR per dataset and averages
-    per language and per source).
+    Takes the crosslingual or monolingual outputs from a model and returns all the WPR and LPR metrics
+    (WPR and LPR per dataset and averages per language and per source).
     The provided outputs should be dictionaries with 'source', 'language' and 'completion' fields, for instance:
     
     ```
@@ -166,19 +166,26 @@ def compute_all_metrics(outputs: list[dict]) -> dict[str, dict[str, float]]:
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="Compute WPR and LPR over the model completions in given CSV file")
+    parser = argparse.ArgumentParser(description="Compute WPR and LPR over the model completions in given CSV file. "
+                                     "Example: `python compute_metrics.py outputs/command-r-plus.csv`")
     parser.add_argument('csv_file', help="CSV file with the same format as the provided command-r outputs "
-                        "(with 'source', 'language' and 'completion' fields)")
+                        "(with 'task', 'model', 'source', 'language' and 'completion' fields)")
     args = parser.parse_args()
 
     with open(args.csv_file) as csv_file:
         reader = csv.DictReader(csv_file)
         outputs = list(reader)
     
-    all_metrics = compute_all_metrics(outputs)
+    print('task', 'model', 'source', 'language', 'lpr', 'wpr', sep='\t')
 
-    print('source', 'language', 'lpr', 'wpr', sep='\t')
-    for (source, lang), metrics in all_metrics.items():
-        lpr = f"{metrics['lpr']:.2%}"
-        wpr = f"{metrics['wpr']:.2%}" if 'wpr' in metrics else 'N/A'
-        print(source, lang, lpr, wpr, sep='\t')
+    group_key = lambda output: (output['task'], output['model'])
+    outputs = sorted(outputs, key=group_key)
+    # the CSV file can contain outputs for several models and across several tasks,
+    # but `compute_all_metrics` expects a single model and a single task
+    for (task, model), outputs_ in itertools.groupby(outputs, key=group_key):
+        all_metrics = compute_all_metrics(outputs_)
+
+        for (source, lang), metrics in all_metrics.items():
+            lpr = f"{metrics['lpr']:.2%}"
+            wpr = f"{metrics['wpr']:.2%}" if 'wpr' in metrics else 'N/A'
+            print(task, model, source, lang, lpr, wpr, sep='\t')
