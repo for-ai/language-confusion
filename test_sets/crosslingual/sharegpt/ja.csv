@@ -1,0 +1,101 @@
+prompt,location,phrasing,language,source
+Reply in Japanese. What is a Salesforce digital expierence,Start,reply in {language_requested},ja,sharegpt
+What is a Salesforce digital expierence. Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Write in Japanese. What is the process of technological exploration in the context of technology roadmapping and implementation,Start,write in {language_requested},ja,sharegpt
+What is the process of technological exploration in the context of technology roadmapping and implementation. Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Use Japanese. Invent a global digital government.,Start,use {language_requested},ja,sharegpt
+Invent a global digital government. Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+Answer in Japanese. Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature?,Start,answer in {language_requested},ja,sharegpt
+Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature? Use Japanese.,End,use {language_requested},ja,sharegpt
+"Write in Japanese. Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution.""",Start,write in {language_requested},ja,sharegpt
+"Write Research Proposal Paper in Japanese on ""Study the effect of different fertilizer types on Environmental Pollution.""",Middle,in {language_requested},ja,sharegpt
+"Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution."". Reply in Japanese.",End,reply in {language_requested},ja,sharegpt
+Write in Japanese. How will electric cars affect traditional automobile industry,Start,write in {language_requested},ja,sharegpt
+How will electric cars affect traditional automobile industry. Reply in Japanese.,End,reply in {language_requested},ja,sharegpt
+Reply in Japanese. How does Medium's recommendation system work?,Start,reply in {language_requested},ja,sharegpt
+How does Medium's recommendation system work? Use Japanese.,End,use {language_requested},ja,sharegpt
+"Use Japanese. Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Start,use {language_requested},ja,sharegpt
+"Draft an in-class activity in Japanese that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Middle,in {language_requested},ja,sharegpt
+"Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students. Use Japanese.",End,use {language_requested},ja,sharegpt
+"Respond in Japanese. You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Start,respond in {language_requested},ja,sharegpt
+"You are a medical communications expert. Please provide a summary in Japanese on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Middle,in {language_requested},ja,sharegpt
+"You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials. Reply in Japanese.",End,reply in {language_requested},ja,sharegpt
+Use Japanese. Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen,Start,use {language_requested},ja,sharegpt
+Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen. Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+Respond in Japanese. What does an annual report contains?,Start,respond in {language_requested},ja,sharegpt
+What does an annual report contains? Use Japanese.,End,use {language_requested},ja,sharegpt
+"Write in Japanese. what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc",Start,write in {language_requested},ja,sharegpt
+"what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc. Reply in Japanese.",End,reply in {language_requested},ja,sharegpt
+Reply in Japanese. What is a times and motion study?,Start,reply in {language_requested},ja,sharegpt
+What is a times and motion study? Respond in Japanese.,End,respond in {language_requested},ja,sharegpt
+Respond in Japanese. i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on,Start,respond in {language_requested},ja,sharegpt
+i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on. Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Use Japanese. write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business,Start,use {language_requested},ja,sharegpt
+write a product requirements document in Japanese for a software that helps entrepreneurs identify a target market and begin building a business,Middle,in {language_requested},ja,sharegpt
+write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business. Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+"Respond in Japanese. What is a ""interactive engineering model "" related to self-learning",Start,respond in {language_requested},ja,sharegpt
+"What is a ""interactive engineering model "" related to self-learning. Reply in Japanese.",End,reply in {language_requested},ja,sharegpt
+Reply in Japanese. How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations?,Start,reply in {language_requested},ja,sharegpt
+How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations? Reply in Japanese.,End,reply in {language_requested},ja,sharegpt
+Write in Japanese. What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources?,Start,write in {language_requested},ja,sharegpt
+What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources? Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Reply in Japanese. explain me key concepts of the economic dimension of globalization,Start,reply in {language_requested},ja,sharegpt
+explain me key concepts of the economic dimension of globalization. Write in Japanese.,End,write in {language_requested},ja,sharegpt
+"Use Japanese. What is the difference between deep learning, machine learning, and artificial intelligence?",Start,use {language_requested},ja,sharegpt
+"What is the difference between deep learning, machine learning, and artificial intelligence? Answer in Japanese.",End,answer in {language_requested},ja,sharegpt
+Respond in Japanese. Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Start,respond in {language_requested},ja,sharegpt
+Explain in simple terms in Japanese how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Middle,in {language_requested},ja,sharegpt
+Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data. Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+Use Japanese. Provide a sample CRM requirements document for a company that sells scientific instrumenation,Start,use {language_requested},ja,sharegpt
+Provide a sample CRM requirements document for a company that sells scientific instrumenation. Respond in Japanese.,End,respond in {language_requested},ja,sharegpt
+Reply in Japanese. What will your eating habits look like in the future?,Start,reply in {language_requested},ja,sharegpt
+What will your eating habits look like in the future? Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+Write in Japanese. Define Forensic Science,Start,write in {language_requested},ja,sharegpt
+Define Forensic Science. Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+"Write in Japanese. what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems?",Start,write in {language_requested},ja,sharegpt
+"what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems? Use Japanese.",End,use {language_requested},ja,sharegpt
+Answer in Japanese. Explain quantum computing in simple terms,Start,answer in {language_requested},ja,sharegpt
+Explain quantum computing in simple terms. Use Japanese.,End,use {language_requested},ja,sharegpt
+Respond in Japanese. which country was the first to adopt communism as the way to develop it economy,Start,respond in {language_requested},ja,sharegpt
+which country was the first to adopt communism as the way to develop it economy. Respond in Japanese.,End,respond in {language_requested},ja,sharegpt
+Write in Japanese. how can I answer the question: What types of use cases or new plugins do you want to see built?,Start,write in {language_requested},ja,sharegpt
+how can I answer the question: What types of use cases or new plugins do you want to see built? Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+Write in Japanese. What services do CRM agencies offer for Consultation and strategy development?,Start,write in {language_requested},ja,sharegpt
+What services do CRM agencies offer for Consultation and strategy development? Answer in Japanese.,End,answer in {language_requested},ja,sharegpt
+Respond in Japanese. can i use spring state machine and workflow together and is it justified?,Start,respond in {language_requested},ja,sharegpt
+can i use spring state machine and workflow together and is it justified? Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Use Japanese. where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less.,Start,use {language_requested},ja,sharegpt
+where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less. Use Japanese.,End,use {language_requested},ja,sharegpt
+"Use Japanese. You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature.",Start,use {language_requested},ja,sharegpt
+"You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature. Answer in Japanese.",End,answer in {language_requested},ja,sharegpt
+Use Japanese. I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question?,Start,use {language_requested},ja,sharegpt
+I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question? Use Japanese.,End,use {language_requested},ja,sharegpt
+"Respond in Japanese. what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe?",Start,respond in {language_requested},ja,sharegpt
+"what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe? Write in Japanese.",End,write in {language_requested},ja,sharegpt
+Respond in Japanese. What are your thoughts about the future of academic libraries in the next 10 years?,Start,respond in {language_requested},ja,sharegpt
+What are your thoughts about the future of academic libraries in the next 10 years? Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Reply in Japanese. Summarize the sensor portfolio of Infineon,Start,reply in {language_requested},ja,sharegpt
+Summarize the sensor portfolio of Infineon. Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Respond in Japanese. Can you explain the working principle behind stable diffusion?,Start,respond in {language_requested},ja,sharegpt
+Can you explain in Japanese the working principle behind stable diffusion?,Middle,in {language_requested},ja,sharegpt
+Can you explain the working principle behind stable diffusion? Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Respond in Japanese. what are the best analysis to perform during due diligence of enterprise software companies?,Start,respond in {language_requested},ja,sharegpt
+what are the best analysis to perform during due diligence of enterprise software companies? Write in Japanese.,End,write in {language_requested},ja,sharegpt
+Answer in Japanese. How could a sociology of the algorithmic art of governing look like?,Start,answer in {language_requested},ja,sharegpt
+How could a sociology of the algorithmic art of governing look like? Respond in Japanese.,End,respond in {language_requested},ja,sharegpt
+Write in Japanese. what topics are investigated by an underwriter for life insurance?,Start,write in {language_requested},ja,sharegpt
+what topics are investigated by an underwriter for life insurance? Write in Japanese.,End,write in {language_requested},ja,sharegpt
+"Write in Japanese. What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario",Start,write in {language_requested},ja,sharegpt
+"What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario. Reply in Japanese.",End,reply in {language_requested},ja,sharegpt
+Reply in Japanese. Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Start,reply in {language_requested},ja,sharegpt
+Write a project proposal in Japanese on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Middle,in {language_requested},ja,sharegpt
+Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities. Use Japanese.,End,use {language_requested},ja,sharegpt
+Use Japanese. explain database sharding,Start,use {language_requested},ja,sharegpt
+explain database sharding. Write in Japanese.,End,write in {language_requested},ja,sharegpt
+"Respond in Japanese. Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Start,respond in {language_requested},ja,sharegpt
+"Read and summarize in Japanese the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Middle,in {language_requested},ja,sharegpt
+"Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation"". Write in Japanese.",End,write in {language_requested},ja,sharegpt
+Use Japanese. What are the steps to become a conglomerate?,Start,use {language_requested},ja,sharegpt
+What are the steps to become a conglomerate? Use Japanese.,End,use {language_requested},ja,sharegpt
+Write in Japanese. What is the best way to forecast sales for a meal replacement product for the following year?,Start,write in {language_requested},ja,sharegpt
+What is the best way to forecast sales for a meal replacement product for the following year? Write in Japanese.,End,write in {language_requested},ja,sharegpt

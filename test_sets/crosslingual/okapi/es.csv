@@ -1,0 +1,107 @@
+prompt,location,phrasing,language,source
+"Reply in Spanish. Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities",Start,reply in {language_requested},es,okapi
+"Explain a common misconception about your topic in Spanish.
+Topic: Using AI to Augment Human Capabilities",Middle,in {language_requested},es,okapi
+"Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities. Write in Spanish.",End,write in {language_requested},es,okapi
+Write in Spanish. Explain how the Gini index is calculated.,Start,write in {language_requested},es,okapi
+Explain in Spanish how the Gini index is calculated.,Middle,in {language_requested},es,okapi
+Explain how the Gini index is calculated. Respond in Spanish.,End,respond in {language_requested},es,okapi
+Answer in Spanish. Write four articles on the topic of cryptocurrency with a minimum of 300 words each.,Start,answer in {language_requested},es,okapi
+Write four articles in Spanish on the topic of cryptocurrency with a minimum of 300 words each.,Middle,in {language_requested},es,okapi
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. Answer in Spanish.,End,answer in {language_requested},es,okapi
+Answer in Spanish. Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence.,Start,answer in {language_requested},es,okapi
+Generate an essay in Spanish of at least 500 words that argues in favor of regulating artificial intelligence.,Middle,in {language_requested},es,okapi
+Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence. Reply in Spanish.,End,reply in {language_requested},es,okapi
+Reply in Spanish. Write an 1850-word horror story.,Start,reply in {language_requested},es,okapi
+Write an 1850-word horror story in Spanish.,Middle,in {language_requested},es,okapi
+Write an 1850-word horror story. Write in Spanish.,End,write in {language_requested},es,okapi
+"Respond in Spanish. Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"".",Start,respond in {language_requested},es,okapi
+"Write a 500 word report summarizing the article in Spanish: ""The Impact of Brexit on the United Kingdom"".",Middle,in {language_requested},es,okapi
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". Respond in Spanish.",End,respond in {language_requested},es,okapi
+Answer in Spanish. Write a 500 word article about the benefits of organic food.,Start,answer in {language_requested},es,okapi
+Write a 500 word article in Spanish about the benefits of organic food.,Middle,in {language_requested},es,okapi
+Write a 500 word article about the benefits of organic food. Write in Spanish.,End,write in {language_requested},es,okapi
+Respond in Spanish. Write a persuasive essay about why the redistribution of wealth is necessary.,Start,respond in {language_requested},es,okapi
+Write a persuasive essay in Spanish about why the redistribution of wealth is necessary.,Middle,in {language_requested},es,okapi
+Write a persuasive essay about why the redistribution of wealth is necessary. Answer in Spanish.,End,answer in {language_requested},es,okapi
+Respond in Spanish. Generate an argumentative essay about the importance of healthy eating.,Start,respond in {language_requested},es,okapi
+Generate an argumentative essay in Spanish about the importance of healthy eating.,Middle,in {language_requested},es,okapi
+Generate an argumentative essay about the importance of healthy eating. Write in Spanish.,End,write in {language_requested},es,okapi
+Answer in Spanish. Write an opinion article on artificial intelligence in 500-700 words.,Start,answer in {language_requested},es,okapi
+Write an opinion article in Spanish on artificial intelligence in 500-700 words.,Middle,in {language_requested},es,okapi
+Write an opinion article on artificial intelligence in 500-700 words. Use Spanish.,End,use {language_requested},es,okapi
+Use Spanish. Generate a creative story which is at least 500 words long.,Start,use {language_requested},es,okapi
+Generate a creative story in Spanish which is at least 500 words long.,Middle,in {language_requested},es,okapi
+Generate a creative story which is at least 500 words long. Write in Spanish.,End,write in {language_requested},es,okapi
+Respond in Spanish. Generate an essay discussing the importance of recycling.,Start,respond in {language_requested},es,okapi
+Generate an essay in Spanish discussing the importance of recycling.,Middle,in {language_requested},es,okapi
+Generate an essay discussing the importance of recycling. Write in Spanish.,End,write in {language_requested},es,okapi
+Write in Spanish. Write a 250-word article summarizing the changes brought about by Brexit.,Start,write in {language_requested},es,okapi
+Write a 250-word article in Spanish summarizing the changes brought about by Brexit.,Middle,in {language_requested},es,okapi
+Write a 250-word article summarizing the changes brought about by Brexit. Write in Spanish.,End,write in {language_requested},es,okapi
+Use Spanish. Generate a 500-word story about a man who finds himself in an unfamiliar city.,Start,use {language_requested},es,okapi
+Generate a 500-word story in Spanish about a man who finds himself in an unfamiliar city.,Middle,in {language_requested},es,okapi
+Generate a 500-word story about a man who finds himself in an unfamiliar city. Reply in Spanish.,End,reply in {language_requested},es,okapi
+Reply in Spanish. Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Start,reply in {language_requested},es,okapi
+Generate a science fiction story in Spanish of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Middle,in {language_requested},es,okapi
+Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time. Use Spanish.,End,use {language_requested},es,okapi
+"Reply in Spanish. Write a 500-word article on the topic of ""Effective Communication Skills"".",Start,reply in {language_requested},es,okapi
+"Write a 500-word article in Spanish on the topic of ""Effective Communication Skills"".",Middle,in {language_requested},es,okapi
+"Write a 500-word article on the topic of ""Effective Communication Skills"". Reply in Spanish.",End,reply in {language_requested},es,okapi
+Reply in Spanish. Generate an essay of 500 words on the topic of machine learning.,Start,reply in {language_requested},es,okapi
+Generate an essay in Spanish of 500 words on the topic of machine learning.,Middle,in {language_requested},es,okapi
+Generate an essay of 500 words on the topic of machine learning. Use Spanish.,End,use {language_requested},es,okapi
+Respond in Spanish. Compose a 500 word essay discussing the pros and cons of genetically modified food,Start,respond in {language_requested},es,okapi
+Compose a 500 word essay in Spanish discussing the pros and cons of genetically modified food,Middle,in {language_requested},es,okapi
+Compose a 500 word essay discussing the pros and cons of genetically modified food. Write in Spanish.,End,write in {language_requested},es,okapi
+Respond in Spanish. Write a 500 word essay on the causes of poverty.,Start,respond in {language_requested},es,okapi
+Write a 500 word essay in Spanish on the causes of poverty.,Middle,in {language_requested},es,okapi
+Write a 500 word essay on the causes of poverty. Reply in Spanish.,End,reply in {language_requested},es,okapi
+Answer in Spanish. Write a blog post advocating for teaching students coding skills in school.,Start,answer in {language_requested},es,okapi
+Write a blog post in Spanish advocating for teaching students coding skills in school.,Middle,in {language_requested},es,okapi
+Write a blog post advocating for teaching students coding skills in school. Answer in Spanish.,End,answer in {language_requested},es,okapi
+Write in Spanish. Identify three types of government assistance that could help startups during the economic downturn.,Start,write in {language_requested},es,okapi
+Identify in Spanish three types of government assistance that could help startups during the economic downturn.,Middle,in {language_requested},es,okapi
+Identify three types of government assistance that could help startups during the economic downturn. Answer in Spanish.,End,answer in {language_requested},es,okapi
+Write in Spanish. Write a 500-word story in the horror genre.,Start,write in {language_requested},es,okapi
+Write a 500-word story in Spanish in the horror genre.,Middle,in {language_requested},es,okapi
+Write a 500-word story in the horror genre. Answer in Spanish.,End,answer in {language_requested},es,okapi
+Reply in Spanish. Generate a blog post of 500 words or less that discusses a chosen topic,Start,reply in {language_requested},es,okapi
+Generate a blog post in Spanish of 500 words or less that discusses a chosen topic,Middle,in {language_requested},es,okapi
+Generate a blog post of 500 words or less that discusses a chosen topic. Respond in Spanish.,End,respond in {language_requested},es,okapi
+"Answer in Spanish. Compose an essay from the given statement.
+The importance of music education in our lives.",Start,answer in {language_requested},es,okapi
+"Compose an essay in Spanish from the given statement.
+The importance of music education in our lives.",Middle,in {language_requested},es,okapi
+"Compose an essay from the given statement.
+The importance of music education in our lives. Reply in Spanish.",End,reply in {language_requested},es,okapi
+Answer in Spanish. Write a 250 word essay about Coral Reef Conservation,Start,answer in {language_requested},es,okapi
+Write a 250 word essay in Spanish about Coral Reef Conservation,Middle,in {language_requested},es,okapi
+Write a 250 word essay about Coral Reef Conservation. Use Spanish.,End,use {language_requested},es,okapi
+Reply in Spanish. Create a recipe for a delicious and healthy vegan three-course meal.,Start,reply in {language_requested},es,okapi
+Create a recipe in Spanish for a delicious and healthy vegan three-course meal.,Middle,in {language_requested},es,okapi
+Create a recipe for a delicious and healthy vegan three-course meal. Respond in Spanish.,End,respond in {language_requested},es,okapi
+"Use Spanish. Turn this sentence into a metaphor: ""The night sky was a blanket of stars"".",Start,use {language_requested},es,okapi
+"Turn this sentence into a metaphor in Spanish: ""The night sky was a blanket of stars"".",Middle,in {language_requested},es,okapi
+"Turn this sentence into a metaphor: ""The night sky was a blanket of stars"". Respond in Spanish.",End,respond in {language_requested},es,okapi
+Respond in Spanish. Write a 3-page article discussing the impact of COVID-19 on the global economy,Start,respond in {language_requested},es,okapi
+Write a 3-page article in Spanish discussing the impact of COVID-19 on the global economy,Middle,in {language_requested},es,okapi
+Write a 3-page article discussing the impact of COVID-19 on the global economy. Answer in Spanish.,End,answer in {language_requested},es,okapi
+Use Spanish. Write a sample essay of 500 words on the topic of artificial intelligence.,Start,use {language_requested},es,okapi
+Write a sample essay in Spanish of 500 words on the topic of artificial intelligence.,Middle,in {language_requested},es,okapi
+Write a sample essay of 500 words on the topic of artificial intelligence. Respond in Spanish.,End,respond in {language_requested},es,okapi
+Reply in Spanish. Write a short persuasive essay about the importance of voting.,Start,reply in {language_requested},es,okapi
+Write a short persuasive essay in Spanish about the importance of voting.,Middle,in {language_requested},es,okapi
+Write a short persuasive essay about the importance of voting. Write in Spanish.,End,write in {language_requested},es,okapi
+Use Spanish. Generate a blog post of at least 500 words about machine learning.,Start,use {language_requested},es,okapi
+Generate a blog post in Spanish of at least 500 words about machine learning.,Middle,in {language_requested},es,okapi
+Generate a blog post of at least 500 words about machine learning. Write in Spanish.,End,write in {language_requested},es,okapi
+Reply in Spanish. Write a blog post discussing the key ethical considerations of AI autonomous weapons.,Start,reply in {language_requested},es,okapi
+Write a blog post in Spanish discussing the key ethical considerations of AI autonomous weapons.,Middle,in {language_requested},es,okapi
+Write a blog post discussing the key ethical considerations of AI autonomous weapons. Respond in Spanish.,End,respond in {language_requested},es,okapi
+Reply in Spanish. Generate a scientific report of  900 words discussing the effects of global warming on the Arctic,Start,reply in {language_requested},es,okapi
+Generate a scientific report in Spanish of  900 words discussing the effects of global warming on the Arctic,Middle,in {language_requested},es,okapi
+Generate a scientific report of  900 words discussing the effects of global warming on the Arctic. Use Spanish.,End,use {language_requested},es,okapi
+Write in Spanish. Create a story for a children's book about a crocodile.,Start,write in {language_requested},es,okapi

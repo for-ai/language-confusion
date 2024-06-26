@@ -1,0 +1,110 @@
+prompt,source,language
+¿Cuáles son 5 maneras de comer manzanas?,dolly_human_edited,es
+¿Cómo escapar de un helicóptero atrapado en el agua?,dolly_human_edited,es
+¿Cómo se puede abrir una lata sin usar las manos?,dolly_human_edited,es
+¿Cuáles son algunas cosas que podría regalarle a un niño pequeño curioso?,dolly_human_edited,es
+¿Cuáles son algunas maneras de animar a mi amigo que acaba de ser dejado?,dolly_human_edited,es
+Sugiéreme 5 películas de terror,dolly_human_edited,es
+¿Puedes ayudarme a evitar la deuda de tarjeta de crédito?,dolly_human_edited,es
+¿Cuáles son algunos buenos ejercicios de peso corporal para la parte superior del cuerpo?,dolly_human_edited,es
+¿Cuáles serían los beneficios si pudiera girar la cabeza como un búho?,dolly_human_edited,es
+5 maneras en que los animales se comunican,dolly_human_edited,es
+¿Cómo puedo mejorar en el lanzamiento de baloncesto?,dolly_human_edited,es
+¿Dame una lista de algunas características de una buena cafetería?,dolly_human_edited,es
+Dame cinco maneras de asegurar que mi cerveza casera sea más interesante,dolly_human_edited,es
+Dame un montón de maneras de mantener mi casa fresca en el verano.,dolly_human_edited,es
+¿Qué formas están hechas de líneas rectas?,dolly_human_edited,es
+¿Cuáles son algunas maneras de mejorar el valor de su hogar?,dolly_human_edited,es
+Ayúdame a pensar en 3 ideas para un nuevo negocio y cómo puedo comenzarlo,dolly_human_edited,es
+¿Qué prendas de ropa suelen llevar las personas durante los meses de verano?,dolly_human_edited,es
+Explica cómo funciona un reloj mecánico,dolly_human_edited,es
+¿Qué criterios debería considerar al comprar una nueva motocicleta?,dolly_human_edited,es
+¿Cuáles son cinco formas totalmente distintas y creativas de describir la utilidad de una mente ociosa?,dolly_human_edited,es
+Cuáles son algunas ideas para reducir el uso de plástico,dolly_human_edited,es
+¿Cuáles son estilos comunes de natación?,dolly_human_edited,es
+"Indica si estos son países, ciudades, continentes o ninguno: Australia, México, Ciudad de México, Antártida, Singapura, India, Golfo, Pekín, Yakarta, Luxemburgo, Ciudad del Vaticano",dolly_human_edited,es
+"En un vuelo, sólo puedo llevar tres de los siguientes artículos: espada, libro, teléfono, maleta, loro, avión. ¿Cuáles debo empacar?",dolly_human_edited,es
+"Clasifique cada uno de los siguientes artículos, según ayudan o perjudican la visión: gafas, prismáticos, venda para los ojos, antifaz para dormir, telescopio",dolly_human_edited,es
+"Estás montando tu bicicleta hacia la tienda y tu bicicleta tiene una canasta. ¿Cuál de los siguientes artículos puedes llevar de vuelta a casa? un cepillo de dientes, un televisor, una barra de jabón, un par de pantalones, un par de esquís, una barra de pan, un tigre, un cargador de teléfono",dolly_human_edited,es
+"Elige si estos objetos serían útiles o no para que un estudiante de secundaria los ponga en su mochila. Cuadernos, libro, lámpara de escritorio, estuche para lápices, pelota de playa, almohada, computadora portátil.",dolly_human_edited,es
+"Dime cuál de los siguientes países está en la Unión Europea: Países Bajos, Suiza, Alemania, Finlandia, Reino Unido, Italia, Luxemburgo, Turquía, Australia, Vietnam, Canadá.",dolly_human_edited,es
+"Cuáles de los siguientes son tipos de activos inmobiliarios: viviendas unifamiliares, viviendas multifamiliares, apartamentos, condominios, casas adosadas, rocas, tierra, autos, diamantes, oro, terrenos, agua, puertas",dolly_human_edited,es
+"Dado este párrafo sobre Drangajökull, dime dónde se encuentra.
+contexto: Drangajökull (pronunciado [ˈtrauŋkaˌjœːkʏtl<unk>], regionalmente también [ˈtraŋk-]) es el glaciar más septentrional de Islandia. Está situado al suroeste de la península de Hornstrandir en la región de Westfjords. El glaciar cubre un área de 160-200 km2 (62–77 millas cuadradas), a una altitud de hasta 925 m (3,035 pies). Es el único glaciar islandés que se encuentra enteramente por debajo de una altitud de 1000 metros y también el único que no se ha reducido en los últimos años.",dolly_human_edited,es
+"¿Dónde se encuentran los Himalayas?
+Contexto: Los Himalayas, o el Himalaya (/ˌhɪməˈleɪ.ə, hɪˈmɑːləjə/; en sánscrito: [ɦɪmaːlɐjɐ]; derivado del sánscrito himá 'nieve, escarcha' y ā-laya 'morada, morada'), es una cadena montañosa en Asia, que separa las llanuras del subcontinente indio del altiplano tibetano. La cadena tiene algunas de las cumbres más altas del planeta, incluida la más alta, el Monte Everest. Más de 100 picos con altitudes superiores a 7200 m (23600 pies) se encuentran en los Himalayas.",dolly_human_edited,es
+"Dado un texto de referencia sobre Tom Brady, dime cuándo nació y por qué es famoso.
+contexto: Thomas Edward Patrick Brady Jr. (nacido el 3 de agosto de 1977) es un exquarterback de fútbol americano que jugó en la National Football League (NFL) durante 23 temporadas. Pasó sus primeras 20 temporadas con los New England Patriots y fue un contribuyente central a la dinastía de la franquicia de 2001 a 2019. En sus últimas tres temporadas, fue miembro de los Tampa Bay Buccaneers. Brady es ampliamente considerado como el mejor mariscal de campo de todos los tiempos.",dolly_human_edited,es
+"¿Por qué George HW Bush perdió la presidencia?
+ contexto: Bush perdió las elecciones presidenciales de 1992 ante el demócrata Bill Clinton después de una recesión económica, su cambio de rumbo en su promesa fiscal y la disminución del énfasis en la política exterior en un clima político posterior a la Guerra Fría.",dolly_human_edited,es
+"¿Qué significa el ayuno?
+contexto: El ayuno es la abstención de comer y a veces de beber. Desde un punto de vista puramente fisiológico, ""ayuno"" puede referirse al estado metabólico de una persona que no ha comido durante la noche (ver ""Desayuno"") o al estado metabólico alcanzado después de la completa digestión y absorción de una comida. Los cambios metabólicos en el estado de ayuno comienzan después de la absorción de una comida (normalmente 3-5 horas después de comer).",dolly_human_edited,es
+Escriba un párrafo corto sobre el impacto de la nutrición en la salud humana.,dolly_human_edited,es
+"Imagina que eres una madre. Escriba una canción para convencer a su hijo pequeño, quien no quiere dejar de jugar, de ir a la escuela.",dolly_human_edited,es
+"Con esta serie de instrucciones de navegación, determine si uno regresaría al punto de partida: Camina hacia el sur 5 millas. Caminar hacia el este 5 millas. Caminar hacia el norte 5 millas.",dolly_human_edited,es
+Escribe una carta a mis padres detallando las razones que deberían comprarme una tortuga como mascota.,dolly_human_edited,es
+Escribirme un correo electrónico introductorio a un abogado para representarme en el tribunal por una multa de luz roja que no merecía,dolly_human_edited,es
+Escribe un párrafo breve sobre las razones que no deberías tener ambos un gato y un pájaro como mascotas.,dolly_human_edited,es
+Escribe un ensayo discutiendo si las medidas de la política de corona son beneficiosas para la sociedad o no.,dolly_human_edited,es
+Cuéntale a un niño una historia sobre un dinosaurio que juega béisbol pero tiene que tomar un descanso debido a una lesión,dolly_human_edited,es
+¿Cuáles son las diversas maneras en que uno puede mantenerse activo durante el día para ayudar a combatir la obesidad?,dolly_human_edited,es
+Escribe una historia corta sobre una persona que descubre una sala oculta en su casa. La historia debe incluir un giro en la trama y una resolución clara al final.,dolly_human_edited,es
+¿Puedo hacer chocolate en casa?,dolly_human_edited,es
+¿Son perjudiciales para el medio ambiente las bolsas y contenedores de plástico?,dolly_human_edited,es
+"¿Qué es más importante, lo innato o lo adquirido?",dolly_human_edited,es
+Describa una rutina matutina desde la perspectiva de un niño de 2 años,dolly_human_edited,es
+¿Cómo planeas un viaje?,dolly_human_edited,es
+"Escribe una historia corta sobre una niña que se hace amiga de un dragón, los poderes mágicos del dragón pueden llevarla a un universo diferente.",dolly_human_edited,es
+Describe la sensación de tomar una ducha fría y explique por qué alguien tomaría una.,dolly_human_edited,es
+¿Por qué deberíamos reemplazar nuestros jardines y jardines ornamentales con plantas nativas?,dolly_human_edited,es
+Imagina que tienes que pasar una semana en una isla desierta. ¿Cuáles son los 5 artículos que llevarías contigo y por qué?,dolly_human_edited,es
+¿Cuál es la mejor manera de poner a dormir un niño pequeño se duerma por la noche?,dolly_human_edited,es
+Escribirle una carta a mi mamá para convencerla de que debería poder tener un gato.,dolly_human_edited,es
+¿Vivimos en una simulación? Argumentar ambos lados,dolly_human_edited,es
+¿Las redes sociales son buenas para ti?,dolly_human_edited,es
+Escribe un poema sobre la elección de un deporte,dolly_human_edited,es
+¿Cómo es vivir en la luna?,dolly_human_edited,es
+¿El arte es inútil?,dolly_human_edited,es
+¿La cafeína es buena para la salud mental?,dolly_human_edited,es
+¿Qué tipo de barco debería comprar?,dolly_human_edited,es
+¿Cuál es la mejor rutina nocturna para el cuidado de la piel?,dolly_human_edited,es
+¿Qué es una pitón?,dolly_human_edited,es
+¿Cómo amplifica un transistor una señal?,dolly_human_edited,es
+¿Puedo alimentar a los perros con comida de mesa?,dolly_human_edited,es
+¿Qué es la artesanía del software?,dolly_human_edited,es
+¿Es la belleza objetiva o subjetiva?,dolly_human_edited,es
+¿Cómo empiezo a correr?,dolly_human_edited,es
+¿Por qué las bolsas de papas fritas se vuelven rancias después de abrirlas?,dolly_human_edited,es
+¿Cuánto conocimiento de teoría musical se requiere para componer música?,dolly_human_edited,es
+¿Cómo manejas un coche con transmisión manual?,dolly_human_edited,es
+¿Qué es el aire enriquecido y por qué bucearían los buceadores con aire enriquecido?,dolly_human_edited,es
+¿Cómo debo invertir mi dinero?,dolly_human_edited,es
+¿Cuántos planetas hay?,dolly_human_edited,es
+¿Por qué ayuda concentrarse en la respiración cuando se practica la atención plena?,dolly_human_edited,es
+¿Cuál es la mejor manera de aprender a hacer snowboard?,dolly_human_edited,es
+¿Cómo llegaría desde un apartamento en la planta superior hasta el estacionamiento?,dolly_human_edited,es
+¿Por qué a la gente le gusta la jardinería?,dolly_human_edited,es
+¿Cuál es la mejor manera de invertir mi dinero?,dolly_human_edited,es
+¿Qué hace que una fotografía sea buena?,dolly_human_edited,es
+¿Por qué los cocineros utilizan sal kosher?,dolly_human_edited,es
+¿Cómo se crean las previsiones meteorológicas?,dolly_human_edited,es
+"¿Cuál es una característica topográfica única del área alrededor de Austin, Texas?
+contexto: Hasta 2021, Austin tenía una población estimada de 964.177, frente a 961.855 en el censo de 2020. La ciudad es el centro cultural y económico del área estadística metropolitana de Austin-Round Rock, que tenía una población estimada de 2.295.303 al 1 de julio de 2020, un aumento de aproximadamente el 84% desde el año 2000. Ubicada en el centro de Texas dentro del gran Texas Hill Country, alberga numerosos lagos, ríos y vías fluviales, incluyendo el Lago Lady Bird y el lago Travis en el Río Colorado, Barton Springs, las Cataratas McKinney y el Lago Walter E. Long.",dolly_human_edited,es
+"¿Cuál es la esperanza de vida promedio de un golden retriever?
+contexto: Los golden retrievers son generalmente una raza sana; tienen una esperanza de vida promedio de 12 a 13 años. La cría irresponsable para satisfacer la alta demanda ha llevado a la prevalencia de problemas de salud hereditarios en algunas líneas de razas, que incluyen condiciones alérgicas en la piel, problemas oculares y a veces irritabilidad. Estos problemas rara vez se encuentran en perros criados por criadores responsables.",dolly_human_edited,es
+"¿Por qué debería usar suavizante de telas?
+contexto: El lavado a máquina ejerce un gran estrés mecánico sobre los textiles, especialmente las fibras naturales como el algodón y la lana. Las fibras en la superficie de la tela se aplastan y deshilachan, y esta condición se endurece al secar la ropa en el aire, dando a la colada una sensación áspera. Agregar un suavizante de telas líquido a la última fase de enjuague (suavizante en el ciclo de enjuague) resulta en ropa que se siente más suave.",dolly_human_edited,es
+"¿Cuáles son algunos de los elementos comunes del diseño visual?
+contexto: Los elementos de diseño son las unidades básicas de cualquier diseño visual que forman su estructura y transmiten mensajes visuales. El pintor y teórico del diseño Maitland E. Graves (1902-1978), que intentó gestar los principios fundamentales del orden estético en el diseño visual, en su libro, The Art of Color and Design (1941), definió los elementos del diseño como línea, dirección, forma, tamaño, textura, valor y color, concluyendo que ""estos elementos son los materiales a partir de los cuales se construyen todos los diseños"".",dolly_human_edited,es
+¿Qué hace que una ala de avión vuele?,dolly_human_edited,es
+¿Qué servicios ofrece Microsoft?,dolly_human_edited,es
+¿Qué es un piano?,dolly_human_edited,es
+¿En qué clima se encuentran típicamente los cactus?,dolly_human_edited,es
+¿Cuál es la fuente o causa de la luz del Sol?,dolly_human_edited,es
+¿Por qué pueden los camellos sobrevivir durante mucho tiempo sin agua?,dolly_human_edited,es
+¿Qué es un polígono?,dolly_human_edited,es
+¿Qué es un verbo?,dolly_human_edited,es
+¿Qué es la suscripción?,dolly_human_edited,es
+¿Cuándo se inventó la rueda?,dolly_human_edited,es
+¿Qué es la banca de inversión?,dolly_human_edited,es
+¿Cuáles son algunas herramientas que todo propietario debería tener?,dolly_human_edited,es

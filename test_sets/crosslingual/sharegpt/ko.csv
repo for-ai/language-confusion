@@ -1,0 +1,101 @@
+prompt,location,phrasing,language,source
+Reply in Korean. What is a Salesforce digital expierence,Start,reply in {language_requested},ko,sharegpt
+What is a Salesforce digital expierence. Write in Korean.,End,write in {language_requested},ko,sharegpt
+Write in Korean. What is the process of technological exploration in the context of technology roadmapping and implementation,Start,write in {language_requested},ko,sharegpt
+What is the process of technological exploration in the context of technology roadmapping and implementation. Write in Korean.,End,write in {language_requested},ko,sharegpt
+Use Korean. Invent a global digital government.,Start,use {language_requested},ko,sharegpt
+Invent a global digital government. Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+Answer in Korean. Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature?,Start,answer in {language_requested},ko,sharegpt
+Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature? Use Korean.,End,use {language_requested},ko,sharegpt
+"Write in Korean. Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution.""",Start,write in {language_requested},ko,sharegpt
+"Write Research Proposal Paper in Korean on ""Study the effect of different fertilizer types on Environmental Pollution.""",Middle,in {language_requested},ko,sharegpt
+"Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution."". Reply in Korean.",End,reply in {language_requested},ko,sharegpt
+Write in Korean. How will electric cars affect traditional automobile industry,Start,write in {language_requested},ko,sharegpt
+How will electric cars affect traditional automobile industry. Reply in Korean.,End,reply in {language_requested},ko,sharegpt
+Reply in Korean. How does Medium's recommendation system work?,Start,reply in {language_requested},ko,sharegpt
+How does Medium's recommendation system work? Use Korean.,End,use {language_requested},ko,sharegpt
+"Use Korean. Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Start,use {language_requested},ko,sharegpt
+"Draft an in-class activity in Korean that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Middle,in {language_requested},ko,sharegpt
+"Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students. Use Korean.",End,use {language_requested},ko,sharegpt
+"Respond in Korean. You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Start,respond in {language_requested},ko,sharegpt
+"You are a medical communications expert. Please provide a summary in Korean on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Middle,in {language_requested},ko,sharegpt
+"You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials. Reply in Korean.",End,reply in {language_requested},ko,sharegpt
+Use Korean. Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen,Start,use {language_requested},ko,sharegpt
+Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen. Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+Respond in Korean. What does an annual report contains?,Start,respond in {language_requested},ko,sharegpt
+What does an annual report contains? Use Korean.,End,use {language_requested},ko,sharegpt
+"Write in Korean. what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc",Start,write in {language_requested},ko,sharegpt
+"what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc. Reply in Korean.",End,reply in {language_requested},ko,sharegpt
+Reply in Korean. What is a times and motion study?,Start,reply in {language_requested},ko,sharegpt
+What is a times and motion study? Respond in Korean.,End,respond in {language_requested},ko,sharegpt
+Respond in Korean. i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on,Start,respond in {language_requested},ko,sharegpt
+i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on. Write in Korean.,End,write in {language_requested},ko,sharegpt
+Use Korean. write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business,Start,use {language_requested},ko,sharegpt
+write a product requirements document in Korean for a software that helps entrepreneurs identify a target market and begin building a business,Middle,in {language_requested},ko,sharegpt
+write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business. Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+"Respond in Korean. What is a ""interactive engineering model "" related to self-learning",Start,respond in {language_requested},ko,sharegpt
+"What is a ""interactive engineering model "" related to self-learning. Reply in Korean.",End,reply in {language_requested},ko,sharegpt
+Reply in Korean. How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations?,Start,reply in {language_requested},ko,sharegpt
+How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations? Reply in Korean.,End,reply in {language_requested},ko,sharegpt
+Write in Korean. What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources?,Start,write in {language_requested},ko,sharegpt
+What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources? Write in Korean.,End,write in {language_requested},ko,sharegpt
+Reply in Korean. explain me key concepts of the economic dimension of globalization,Start,reply in {language_requested},ko,sharegpt
+explain me key concepts of the economic dimension of globalization. Write in Korean.,End,write in {language_requested},ko,sharegpt
+"Use Korean. What is the difference between deep learning, machine learning, and artificial intelligence?",Start,use {language_requested},ko,sharegpt
+"What is the difference between deep learning, machine learning, and artificial intelligence? Answer in Korean.",End,answer in {language_requested},ko,sharegpt
+Respond in Korean. Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Start,respond in {language_requested},ko,sharegpt
+Explain in simple terms in Korean how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Middle,in {language_requested},ko,sharegpt
+Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data. Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+Use Korean. Provide a sample CRM requirements document for a company that sells scientific instrumenation,Start,use {language_requested},ko,sharegpt
+Provide a sample CRM requirements document for a company that sells scientific instrumenation. Respond in Korean.,End,respond in {language_requested},ko,sharegpt
+Reply in Korean. What will your eating habits look like in the future?,Start,reply in {language_requested},ko,sharegpt
+What will your eating habits look like in the future? Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+Write in Korean. Define Forensic Science,Start,write in {language_requested},ko,sharegpt
+Define Forensic Science. Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+"Write in Korean. what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems?",Start,write in {language_requested},ko,sharegpt
+"what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems? Use Korean.",End,use {language_requested},ko,sharegpt
+Answer in Korean. Explain quantum computing in simple terms,Start,answer in {language_requested},ko,sharegpt
+Explain quantum computing in simple terms. Use Korean.,End,use {language_requested},ko,sharegpt
+Respond in Korean. which country was the first to adopt communism as the way to develop it economy,Start,respond in {language_requested},ko,sharegpt
+which country was the first to adopt communism as the way to develop it economy. Respond in Korean.,End,respond in {language_requested},ko,sharegpt
+Write in Korean. how can I answer the question: What types of use cases or new plugins do you want to see built?,Start,write in {language_requested},ko,sharegpt
+how can I answer the question: What types of use cases or new plugins do you want to see built? Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+Write in Korean. What services do CRM agencies offer for Consultation and strategy development?,Start,write in {language_requested},ko,sharegpt
+What services do CRM agencies offer for Consultation and strategy development? Answer in Korean.,End,answer in {language_requested},ko,sharegpt
+Respond in Korean. can i use spring state machine and workflow together and is it justified?,Start,respond in {language_requested},ko,sharegpt
+can i use spring state machine and workflow together and is it justified? Write in Korean.,End,write in {language_requested},ko,sharegpt
+Use Korean. where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less.,Start,use {language_requested},ko,sharegpt
+where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less. Use Korean.,End,use {language_requested},ko,sharegpt
+"Use Korean. You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature.",Start,use {language_requested},ko,sharegpt
+"You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature. Answer in Korean.",End,answer in {language_requested},ko,sharegpt
+Use Korean. I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question?,Start,use {language_requested},ko,sharegpt
+I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question? Use Korean.,End,use {language_requested},ko,sharegpt
+"Respond in Korean. what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe?",Start,respond in {language_requested},ko,sharegpt
+"what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe? Write in Korean.",End,write in {language_requested},ko,sharegpt
+Respond in Korean. What are your thoughts about the future of academic libraries in the next 10 years?,Start,respond in {language_requested},ko,sharegpt
+What are your thoughts about the future of academic libraries in the next 10 years? Write in Korean.,End,write in {language_requested},ko,sharegpt
+Reply in Korean. Summarize the sensor portfolio of Infineon,Start,reply in {language_requested},ko,sharegpt
+Summarize the sensor portfolio of Infineon. Write in Korean.,End,write in {language_requested},ko,sharegpt
+Respond in Korean. Can you explain the working principle behind stable diffusion?,Start,respond in {language_requested},ko,sharegpt
+Can you explain in Korean the working principle behind stable diffusion?,Middle,in {language_requested},ko,sharegpt
+Can you explain the working principle behind stable diffusion? Write in Korean.,End,write in {language_requested},ko,sharegpt
+Respond in Korean. what are the best analysis to perform during due diligence of enterprise software companies?,Start,respond in {language_requested},ko,sharegpt
+what are the best analysis to perform during due diligence of enterprise software companies? Write in Korean.,End,write in {language_requested},ko,sharegpt
+Answer in Korean. How could a sociology of the algorithmic art of governing look like?,Start,answer in {language_requested},ko,sharegpt
+How could a sociology of the algorithmic art of governing look like? Respond in Korean.,End,respond in {language_requested},ko,sharegpt
+Write in Korean. what topics are investigated by an underwriter for life insurance?,Start,write in {language_requested},ko,sharegpt
+what topics are investigated by an underwriter for life insurance? Write in Korean.,End,write in {language_requested},ko,sharegpt
+"Write in Korean. What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario",Start,write in {language_requested},ko,sharegpt
+"What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario. Reply in Korean.",End,reply in {language_requested},ko,sharegpt
+Reply in Korean. Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Start,reply in {language_requested},ko,sharegpt
+Write a project proposal in Korean on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Middle,in {language_requested},ko,sharegpt
+Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities. Use Korean.,End,use {language_requested},ko,sharegpt
+Use Korean. explain database sharding,Start,use {language_requested},ko,sharegpt
+explain database sharding. Write in Korean.,End,write in {language_requested},ko,sharegpt
+"Respond in Korean. Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Start,respond in {language_requested},ko,sharegpt
+"Read and summarize in Korean the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Middle,in {language_requested},ko,sharegpt
+"Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation"". Write in Korean.",End,write in {language_requested},ko,sharegpt
+Use Korean. What are the steps to become a conglomerate?,Start,use {language_requested},ko,sharegpt
+What are the steps to become a conglomerate? Use Korean.,End,use {language_requested},ko,sharegpt
+Write in Korean. What is the best way to forecast sales for a meal replacement product for the following year?,Start,write in {language_requested},ko,sharegpt
+What is the best way to forecast sales for a meal replacement product for the following year? Write in Korean.,End,write in {language_requested},ko,sharegpt

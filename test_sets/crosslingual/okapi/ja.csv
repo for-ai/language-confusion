@@ -1,0 +1,107 @@
+prompt,location,phrasing,language,source
+"Reply in Japanese. Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities",Start,reply in {language_requested},ja,okapi
+"Explain a common misconception about your topic in Japanese.
+Topic: Using AI to Augment Human Capabilities",Middle,in {language_requested},ja,okapi
+"Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities. Write in Japanese.",End,write in {language_requested},ja,okapi
+Write in Japanese. Explain how the Gini index is calculated.,Start,write in {language_requested},ja,okapi
+Explain in Japanese how the Gini index is calculated.,Middle,in {language_requested},ja,okapi
+Explain how the Gini index is calculated. Respond in Japanese.,End,respond in {language_requested},ja,okapi
+Answer in Japanese. Write four articles on the topic of cryptocurrency with a minimum of 300 words each.,Start,answer in {language_requested},ja,okapi
+Write four articles in Japanese on the topic of cryptocurrency with a minimum of 300 words each.,Middle,in {language_requested},ja,okapi
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. Answer in Japanese.,End,answer in {language_requested},ja,okapi
+Answer in Japanese. Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence.,Start,answer in {language_requested},ja,okapi
+Generate an essay in Japanese of at least 500 words that argues in favor of regulating artificial intelligence.,Middle,in {language_requested},ja,okapi
+Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence. Reply in Japanese.,End,reply in {language_requested},ja,okapi
+Reply in Japanese. Write an 1850-word horror story.,Start,reply in {language_requested},ja,okapi
+Write an 1850-word horror story in Japanese.,Middle,in {language_requested},ja,okapi
+Write an 1850-word horror story. Write in Japanese.,End,write in {language_requested},ja,okapi
+"Respond in Japanese. Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"".",Start,respond in {language_requested},ja,okapi
+"Write a 500 word report summarizing the article in Japanese: ""The Impact of Brexit on the United Kingdom"".",Middle,in {language_requested},ja,okapi
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". Respond in Japanese.",End,respond in {language_requested},ja,okapi
+Answer in Japanese. Write a 500 word article about the benefits of organic food.,Start,answer in {language_requested},ja,okapi
+Write a 500 word article in Japanese about the benefits of organic food.,Middle,in {language_requested},ja,okapi
+Write a 500 word article about the benefits of organic food. Write in Japanese.,End,write in {language_requested},ja,okapi
+Respond in Japanese. Write a persuasive essay about why the redistribution of wealth is necessary.,Start,respond in {language_requested},ja,okapi
+Write a persuasive essay in Japanese about why the redistribution of wealth is necessary.,Middle,in {language_requested},ja,okapi
+Write a persuasive essay about why the redistribution of wealth is necessary. Answer in Japanese.,End,answer in {language_requested},ja,okapi
+Respond in Japanese. Generate an argumentative essay about the importance of healthy eating.,Start,respond in {language_requested},ja,okapi
+Generate an argumentative essay in Japanese about the importance of healthy eating.,Middle,in {language_requested},ja,okapi
+Generate an argumentative essay about the importance of healthy eating. Write in Japanese.,End,write in {language_requested},ja,okapi
+Answer in Japanese. Write an opinion article on artificial intelligence in 500-700 words.,Start,answer in {language_requested},ja,okapi
+Write an opinion article in Japanese on artificial intelligence in 500-700 words.,Middle,in {language_requested},ja,okapi
+Write an opinion article on artificial intelligence in 500-700 words. Use Japanese.,End,use {language_requested},ja,okapi
+Use Japanese. Generate a creative story which is at least 500 words long.,Start,use {language_requested},ja,okapi
+Generate a creative story in Japanese which is at least 500 words long.,Middle,in {language_requested},ja,okapi
+Generate a creative story which is at least 500 words long. Write in Japanese.,End,write in {language_requested},ja,okapi
+Respond in Japanese. Generate an essay discussing the importance of recycling.,Start,respond in {language_requested},ja,okapi
+Generate an essay in Japanese discussing the importance of recycling.,Middle,in {language_requested},ja,okapi
+Generate an essay discussing the importance of recycling. Write in Japanese.,End,write in {language_requested},ja,okapi
+Write in Japanese. Write a 250-word article summarizing the changes brought about by Brexit.,Start,write in {language_requested},ja,okapi
+Write a 250-word article in Japanese summarizing the changes brought about by Brexit.,Middle,in {language_requested},ja,okapi
+Write a 250-word article summarizing the changes brought about by Brexit. Write in Japanese.,End,write in {language_requested},ja,okapi
+Use Japanese. Generate a 500-word story about a man who finds himself in an unfamiliar city.,Start,use {language_requested},ja,okapi
+Generate a 500-word story in Japanese about a man who finds himself in an unfamiliar city.,Middle,in {language_requested},ja,okapi
+Generate a 500-word story about a man who finds himself in an unfamiliar city. Reply in Japanese.,End,reply in {language_requested},ja,okapi
+Reply in Japanese. Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Start,reply in {language_requested},ja,okapi
+Generate a science fiction story in Japanese of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Middle,in {language_requested},ja,okapi
+Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time. Use Japanese.,End,use {language_requested},ja,okapi
+"Reply in Japanese. Write a 500-word article on the topic of ""Effective Communication Skills"".",Start,reply in {language_requested},ja,okapi
+"Write a 500-word article in Japanese on the topic of ""Effective Communication Skills"".",Middle,in {language_requested},ja,okapi
+"Write a 500-word article on the topic of ""Effective Communication Skills"". Reply in Japanese.",End,reply in {language_requested},ja,okapi
+Reply in Japanese. Generate an essay of 500 words on the topic of machine learning.,Start,reply in {language_requested},ja,okapi
+Generate an essay in Japanese of 500 words on the topic of machine learning.,Middle,in {language_requested},ja,okapi
+Generate an essay of 500 words on the topic of machine learning. Use Japanese.,End,use {language_requested},ja,okapi
+Respond in Japanese. Compose a 500 word essay discussing the pros and cons of genetically modified food,Start,respond in {language_requested},ja,okapi
+Compose a 500 word essay in Japanese discussing the pros and cons of genetically modified food,Middle,in {language_requested},ja,okapi
+Compose a 500 word essay discussing the pros and cons of genetically modified food. Write in Japanese.,End,write in {language_requested},ja,okapi
+Respond in Japanese. Write a 500 word essay on the causes of poverty.,Start,respond in {language_requested},ja,okapi
+Write a 500 word essay in Japanese on the causes of poverty.,Middle,in {language_requested},ja,okapi
+Write a 500 word essay on the causes of poverty. Reply in Japanese.,End,reply in {language_requested},ja,okapi
+Answer in Japanese. Write a blog post advocating for teaching students coding skills in school.,Start,answer in {language_requested},ja,okapi
+Write a blog post in Japanese advocating for teaching students coding skills in school.,Middle,in {language_requested},ja,okapi
+Write a blog post advocating for teaching students coding skills in school. Answer in Japanese.,End,answer in {language_requested},ja,okapi
+Write in Japanese. Identify three types of government assistance that could help startups during the economic downturn.,Start,write in {language_requested},ja,okapi
+Identify in Japanese three types of government assistance that could help startups during the economic downturn.,Middle,in {language_requested},ja,okapi
+Identify three types of government assistance that could help startups during the economic downturn. Answer in Japanese.,End,answer in {language_requested},ja,okapi
+Write in Japanese. Write a 500-word story in the horror genre.,Start,write in {language_requested},ja,okapi
+Write a 500-word story in Japanese in the horror genre.,Middle,in {language_requested},ja,okapi
+Write a 500-word story in the horror genre. Answer in Japanese.,End,answer in {language_requested},ja,okapi
+Reply in Japanese. Generate a blog post of 500 words or less that discusses a chosen topic,Start,reply in {language_requested},ja,okapi
+Generate a blog post in Japanese of 500 words or less that discusses a chosen topic,Middle,in {language_requested},ja,okapi
+Generate a blog post of 500 words or less that discusses a chosen topic. Respond in Japanese.,End,respond in {language_requested},ja,okapi
+"Answer in Japanese. Compose an essay from the given statement.
+The importance of music education in our lives.",Start,answer in {language_requested},ja,okapi
+"Compose an essay in Japanese from the given statement.
+The importance of music education in our lives.",Middle,in {language_requested},ja,okapi
+"Compose an essay from the given statement.
+The importance of music education in our lives. Reply in Japanese.",End,reply in {language_requested},ja,okapi
+Answer in Japanese. Write a 250 word essay about Coral Reef Conservation,Start,answer in {language_requested},ja,okapi
+Write a 250 word essay in Japanese about Coral Reef Conservation,Middle,in {language_requested},ja,okapi
+Write a 250 word essay about Coral Reef Conservation. Use Japanese.,End,use {language_requested},ja,okapi
+Reply in Japanese. Create a recipe for a delicious and healthy vegan three-course meal.,Start,reply in {language_requested},ja,okapi
+Create a recipe in Japanese for a delicious and healthy vegan three-course meal.,Middle,in {language_requested},ja,okapi
+Create a recipe for a delicious and healthy vegan three-course meal. Respond in Japanese.,End,respond in {language_requested},ja,okapi
+"Use Japanese. Turn this sentence into a metaphor: ""The night sky was a blanket of stars"".",Start,use {language_requested},ja,okapi
+"Turn this sentence into a metaphor in Japanese: ""The night sky was a blanket of stars"".",Middle,in {language_requested},ja,okapi
+"Turn this sentence into a metaphor: ""The night sky was a blanket of stars"". Respond in Japanese.",End,respond in {language_requested},ja,okapi
+Respond in Japanese. Write a 3-page article discussing the impact of COVID-19 on the global economy,Start,respond in {language_requested},ja,okapi
+Write a 3-page article in Japanese discussing the impact of COVID-19 on the global economy,Middle,in {language_requested},ja,okapi
+Write a 3-page article discussing the impact of COVID-19 on the global economy. Answer in Japanese.,End,answer in {language_requested},ja,okapi
+Use Japanese. Write a sample essay of 500 words on the topic of artificial intelligence.,Start,use {language_requested},ja,okapi
+Write a sample essay in Japanese of 500 words on the topic of artificial intelligence.,Middle,in {language_requested},ja,okapi
+Write a sample essay of 500 words on the topic of artificial intelligence. Respond in Japanese.,End,respond in {language_requested},ja,okapi
+Reply in Japanese. Write a short persuasive essay about the importance of voting.,Start,reply in {language_requested},ja,okapi
+Write a short persuasive essay in Japanese about the importance of voting.,Middle,in {language_requested},ja,okapi
+Write a short persuasive essay about the importance of voting. Write in Japanese.,End,write in {language_requested},ja,okapi
+Use Japanese. Generate a blog post of at least 500 words about machine learning.,Start,use {language_requested},ja,okapi
+Generate a blog post in Japanese of at least 500 words about machine learning.,Middle,in {language_requested},ja,okapi
+Generate a blog post of at least 500 words about machine learning. Write in Japanese.,End,write in {language_requested},ja,okapi
+Reply in Japanese. Write a blog post discussing the key ethical considerations of AI autonomous weapons.,Start,reply in {language_requested},ja,okapi
+Write a blog post in Japanese discussing the key ethical considerations of AI autonomous weapons.,Middle,in {language_requested},ja,okapi
+Write a blog post discussing the key ethical considerations of AI autonomous weapons. Respond in Japanese.,End,respond in {language_requested},ja,okapi
+Reply in Japanese. Generate a scientific report of  900 words discussing the effects of global warming on the Arctic,Start,reply in {language_requested},ja,okapi
+Generate a scientific report in Japanese of  900 words discussing the effects of global warming on the Arctic,Middle,in {language_requested},ja,okapi
+Generate a scientific report of  900 words discussing the effects of global warming on the Arctic. Use Japanese.,End,use {language_requested},ja,okapi
+Write in Japanese. Create a story for a children's book about a crocodile.,Start,write in {language_requested},ja,okapi

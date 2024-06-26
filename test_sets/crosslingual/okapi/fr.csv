@@ -1,0 +1,107 @@
+prompt,location,phrasing,language,source
+"Reply in French. Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities",Start,reply in {language_requested},fr,okapi
+"Explain a common misconception about your topic in French.
+Topic: Using AI to Augment Human Capabilities",Middle,in {language_requested},fr,okapi
+"Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities. Write in French.",End,write in {language_requested},fr,okapi
+Write in French. Explain how the Gini index is calculated.,Start,write in {language_requested},fr,okapi
+Explain in French how the Gini index is calculated.,Middle,in {language_requested},fr,okapi
+Explain how the Gini index is calculated. Respond in French.,End,respond in {language_requested},fr,okapi
+Answer in French. Write four articles on the topic of cryptocurrency with a minimum of 300 words each.,Start,answer in {language_requested},fr,okapi
+Write four articles in French on the topic of cryptocurrency with a minimum of 300 words each.,Middle,in {language_requested},fr,okapi
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. Answer in French.,End,answer in {language_requested},fr,okapi
+Answer in French. Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence.,Start,answer in {language_requested},fr,okapi
+Generate an essay in French of at least 500 words that argues in favor of regulating artificial intelligence.,Middle,in {language_requested},fr,okapi
+Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence. Reply in French.,End,reply in {language_requested},fr,okapi
+Reply in French. Write an 1850-word horror story.,Start,reply in {language_requested},fr,okapi
+Write an 1850-word horror story in French.,Middle,in {language_requested},fr,okapi
+Write an 1850-word horror story. Write in French.,End,write in {language_requested},fr,okapi
+"Respond in French. Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"".",Start,respond in {language_requested},fr,okapi
+"Write a 500 word report summarizing the article in French: ""The Impact of Brexit on the United Kingdom"".",Middle,in {language_requested},fr,okapi
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". Respond in French.",End,respond in {language_requested},fr,okapi
+Answer in French. Write a 500 word article about the benefits of organic food.,Start,answer in {language_requested},fr,okapi
+Write a 500 word article in French about the benefits of organic food.,Middle,in {language_requested},fr,okapi
+Write a 500 word article about the benefits of organic food. Write in French.,End,write in {language_requested},fr,okapi
+Respond in French. Write a persuasive essay about why the redistribution of wealth is necessary.,Start,respond in {language_requested},fr,okapi
+Write a persuasive essay in French about why the redistribution of wealth is necessary.,Middle,in {language_requested},fr,okapi
+Write a persuasive essay about why the redistribution of wealth is necessary. Answer in French.,End,answer in {language_requested},fr,okapi
+Respond in French. Generate an argumentative essay about the importance of healthy eating.,Start,respond in {language_requested},fr,okapi
+Generate an argumentative essay in French about the importance of healthy eating.,Middle,in {language_requested},fr,okapi
+Generate an argumentative essay about the importance of healthy eating. Write in French.,End,write in {language_requested},fr,okapi
+Answer in French. Write an opinion article on artificial intelligence in 500-700 words.,Start,answer in {language_requested},fr,okapi
+Write an opinion article in French on artificial intelligence in 500-700 words.,Middle,in {language_requested},fr,okapi
+Write an opinion article on artificial intelligence in 500-700 words. Use French.,End,use {language_requested},fr,okapi
+Use French. Generate a creative story which is at least 500 words long.,Start,use {language_requested},fr,okapi
+Generate a creative story in French which is at least 500 words long.,Middle,in {language_requested},fr,okapi
+Generate a creative story which is at least 500 words long. Write in French.,End,write in {language_requested},fr,okapi
+Respond in French. Generate an essay discussing the importance of recycling.,Start,respond in {language_requested},fr,okapi
+Generate an essay in French discussing the importance of recycling.,Middle,in {language_requested},fr,okapi
+Generate an essay discussing the importance of recycling. Write in French.,End,write in {language_requested},fr,okapi
+Write in French. Write a 250-word article summarizing the changes brought about by Brexit.,Start,write in {language_requested},fr,okapi
+Write a 250-word article in French summarizing the changes brought about by Brexit.,Middle,in {language_requested},fr,okapi
+Write a 250-word article summarizing the changes brought about by Brexit. Write in French.,End,write in {language_requested},fr,okapi
+Use French. Generate a 500-word story about a man who finds himself in an unfamiliar city.,Start,use {language_requested},fr,okapi
+Generate a 500-word story in French about a man who finds himself in an unfamiliar city.,Middle,in {language_requested},fr,okapi
+Generate a 500-word story about a man who finds himself in an unfamiliar city. Reply in French.,End,reply in {language_requested},fr,okapi
+Reply in French. Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Start,reply in {language_requested},fr,okapi
+Generate a science fiction story in French of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Middle,in {language_requested},fr,okapi
+Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time. Use French.,End,use {language_requested},fr,okapi
+"Reply in French. Write a 500-word article on the topic of ""Effective Communication Skills"".",Start,reply in {language_requested},fr,okapi
+"Write a 500-word article in French on the topic of ""Effective Communication Skills"".",Middle,in {language_requested},fr,okapi
+"Write a 500-word article on the topic of ""Effective Communication Skills"". Reply in French.",End,reply in {language_requested},fr,okapi
+Reply in French. Generate an essay of 500 words on the topic of machine learning.,Start,reply in {language_requested},fr,okapi
+Generate an essay in French of 500 words on the topic of machine learning.,Middle,in {language_requested},fr,okapi
+Generate an essay of 500 words on the topic of machine learning. Use French.,End,use {language_requested},fr,okapi
+Respond in French. Compose a 500 word essay discussing the pros and cons of genetically modified food,Start,respond in {language_requested},fr,okapi
+Compose a 500 word essay in French discussing the pros and cons of genetically modified food,Middle,in {language_requested},fr,okapi
+Compose a 500 word essay discussing the pros and cons of genetically modified food. Write in French.,End,write in {language_requested},fr,okapi
+Respond in French. Write a 500 word essay on the causes of poverty.,Start,respond in {language_requested},fr,okapi
+Write a 500 word essay in French on the causes of poverty.,Middle,in {language_requested},fr,okapi
+Write a 500 word essay on the causes of poverty. Reply in French.,End,reply in {language_requested},fr,okapi
+Answer in French. Write a blog post advocating for teaching students coding skills in school.,Start,answer in {language_requested},fr,okapi
+Write a blog post in French advocating for teaching students coding skills in school.,Middle,in {language_requested},fr,okapi
+Write a blog post advocating for teaching students coding skills in school. Answer in French.,End,answer in {language_requested},fr,okapi
+Write in French. Identify three types of government assistance that could help startups during the economic downturn.,Start,write in {language_requested},fr,okapi
+Identify in French three types of government assistance that could help startups during the economic downturn.,Middle,in {language_requested},fr,okapi
+Identify three types of government assistance that could help startups during the economic downturn. Answer in French.,End,answer in {language_requested},fr,okapi
+Write in French. Write a 500-word story in the horror genre.,Start,write in {language_requested},fr,okapi
+Write a 500-word story in French in the horror genre.,Middle,in {language_requested},fr,okapi
+Write a 500-word story in the horror genre. Answer in French.,End,answer in {language_requested},fr,okapi
+Reply in French. Generate a blog post of 500 words or less that discusses a chosen topic,Start,reply in {language_requested},fr,okapi
+Generate a blog post in French of 500 words or less that discusses a chosen topic,Middle,in {language_requested},fr,okapi
+Generate a blog post of 500 words or less that discusses a chosen topic. Respond in French.,End,respond in {language_requested},fr,okapi
+"Answer in French. Compose an essay from the given statement.
+The importance of music education in our lives.",Start,answer in {language_requested},fr,okapi
+"Compose an essay in French from the given statement.
+The importance of music education in our lives.",Middle,in {language_requested},fr,okapi
+"Compose an essay from the given statement.
+The importance of music education in our lives. Reply in French.",End,reply in {language_requested},fr,okapi
+Answer in French. Write a 250 word essay about Coral Reef Conservation,Start,answer in {language_requested},fr,okapi
+Write a 250 word essay in French about Coral Reef Conservation,Middle,in {language_requested},fr,okapi
+Write a 250 word essay about Coral Reef Conservation. Use French.,End,use {language_requested},fr,okapi
+Reply in French. Create a recipe for a delicious and healthy vegan three-course meal.,Start,reply in {language_requested},fr,okapi
+Create a recipe in French for a delicious and healthy vegan three-course meal.,Middle,in {language_requested},fr,okapi
+Create a recipe for a delicious and healthy vegan three-course meal. Respond in French.,End,respond in {language_requested},fr,okapi
+"Use French. Turn this sentence into a metaphor: ""The night sky was a blanket of stars"".",Start,use {language_requested},fr,okapi
+"Turn this sentence into a metaphor in French: ""The night sky was a blanket of stars"".",Middle,in {language_requested},fr,okapi
+"Turn this sentence into a metaphor: ""The night sky was a blanket of stars"". Respond in French.",End,respond in {language_requested},fr,okapi
+Respond in French. Write a 3-page article discussing the impact of COVID-19 on the global economy,Start,respond in {language_requested},fr,okapi
+Write a 3-page article in French discussing the impact of COVID-19 on the global economy,Middle,in {language_requested},fr,okapi
+Write a 3-page article discussing the impact of COVID-19 on the global economy. Answer in French.,End,answer in {language_requested},fr,okapi
+Use French. Write a sample essay of 500 words on the topic of artificial intelligence.,Start,use {language_requested},fr,okapi
+Write a sample essay in French of 500 words on the topic of artificial intelligence.,Middle,in {language_requested},fr,okapi
+Write a sample essay of 500 words on the topic of artificial intelligence. Respond in French.,End,respond in {language_requested},fr,okapi
+Reply in French. Write a short persuasive essay about the importance of voting.,Start,reply in {language_requested},fr,okapi
+Write a short persuasive essay in French about the importance of voting.,Middle,in {language_requested},fr,okapi
+Write a short persuasive essay about the importance of voting. Write in French.,End,write in {language_requested},fr,okapi
+Use French. Generate a blog post of at least 500 words about machine learning.,Start,use {language_requested},fr,okapi
+Generate a blog post in French of at least 500 words about machine learning.,Middle,in {language_requested},fr,okapi
+Generate a blog post of at least 500 words about machine learning. Write in French.,End,write in {language_requested},fr,okapi
+Reply in French. Write a blog post discussing the key ethical considerations of AI autonomous weapons.,Start,reply in {language_requested},fr,okapi
+Write a blog post in French discussing the key ethical considerations of AI autonomous weapons.,Middle,in {language_requested},fr,okapi
+Write a blog post discussing the key ethical considerations of AI autonomous weapons. Respond in French.,End,respond in {language_requested},fr,okapi
+Reply in French. Generate a scientific report of  900 words discussing the effects of global warming on the Arctic,Start,reply in {language_requested},fr,okapi
+Generate a scientific report in French of  900 words discussing the effects of global warming on the Arctic,Middle,in {language_requested},fr,okapi
+Generate a scientific report of  900 words discussing the effects of global warming on the Arctic. Use French.,End,use {language_requested},fr,okapi
+Write in French. Create a story for a children's book about a crocodile.,Start,write in {language_requested},fr,okapi

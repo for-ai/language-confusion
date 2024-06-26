@@ -1,0 +1,101 @@
+prompt,location,phrasing,language,source
+Reply in Russian. What is a Salesforce digital expierence,Start,reply in {language_requested},ru,sharegpt
+What is a Salesforce digital expierence. Write in Russian.,End,write in {language_requested},ru,sharegpt
+Write in Russian. What is the process of technological exploration in the context of technology roadmapping and implementation,Start,write in {language_requested},ru,sharegpt
+What is the process of technological exploration in the context of technology roadmapping and implementation. Write in Russian.,End,write in {language_requested},ru,sharegpt
+Use Russian. Invent a global digital government.,Start,use {language_requested},ru,sharegpt
+Invent a global digital government. Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+Answer in Russian. Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature?,Start,answer in {language_requested},ru,sharegpt
+Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature? Use Russian.,End,use {language_requested},ru,sharegpt
+"Write in Russian. Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution.""",Start,write in {language_requested},ru,sharegpt
+"Write Research Proposal Paper in Russian on ""Study the effect of different fertilizer types on Environmental Pollution.""",Middle,in {language_requested},ru,sharegpt
+"Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution."". Reply in Russian.",End,reply in {language_requested},ru,sharegpt
+Write in Russian. How will electric cars affect traditional automobile industry,Start,write in {language_requested},ru,sharegpt
+How will electric cars affect traditional automobile industry. Reply in Russian.,End,reply in {language_requested},ru,sharegpt
+Reply in Russian. How does Medium's recommendation system work?,Start,reply in {language_requested},ru,sharegpt
+How does Medium's recommendation system work? Use Russian.,End,use {language_requested},ru,sharegpt
+"Use Russian. Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Start,use {language_requested},ru,sharegpt
+"Draft an in-class activity in Russian that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Middle,in {language_requested},ru,sharegpt
+"Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students. Use Russian.",End,use {language_requested},ru,sharegpt
+"Respond in Russian. You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Start,respond in {language_requested},ru,sharegpt
+"You are a medical communications expert. Please provide a summary in Russian on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Middle,in {language_requested},ru,sharegpt
+"You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials. Reply in Russian.",End,reply in {language_requested},ru,sharegpt
+Use Russian. Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen,Start,use {language_requested},ru,sharegpt
+Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen. Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+Respond in Russian. What does an annual report contains?,Start,respond in {language_requested},ru,sharegpt
+What does an annual report contains? Use Russian.,End,use {language_requested},ru,sharegpt
+"Write in Russian. what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc",Start,write in {language_requested},ru,sharegpt
+"what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc. Reply in Russian.",End,reply in {language_requested},ru,sharegpt
+Reply in Russian. What is a times and motion study?,Start,reply in {language_requested},ru,sharegpt
+What is a times and motion study? Respond in Russian.,End,respond in {language_requested},ru,sharegpt
+Respond in Russian. i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on,Start,respond in {language_requested},ru,sharegpt
+i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on. Write in Russian.,End,write in {language_requested},ru,sharegpt
+Use Russian. write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business,Start,use {language_requested},ru,sharegpt
+write a product requirements document in Russian for a software that helps entrepreneurs identify a target market and begin building a business,Middle,in {language_requested},ru,sharegpt
+write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business. Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+"Respond in Russian. What is a ""interactive engineering model "" related to self-learning",Start,respond in {language_requested},ru,sharegpt
+"What is a ""interactive engineering model "" related to self-learning. Reply in Russian.",End,reply in {language_requested},ru,sharegpt
+Reply in Russian. How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations?,Start,reply in {language_requested},ru,sharegpt
+How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations? Reply in Russian.,End,reply in {language_requested},ru,sharegpt
+Write in Russian. What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources?,Start,write in {language_requested},ru,sharegpt
+What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources? Write in Russian.,End,write in {language_requested},ru,sharegpt
+Reply in Russian. explain me key concepts of the economic dimension of globalization,Start,reply in {language_requested},ru,sharegpt
+explain me key concepts of the economic dimension of globalization. Write in Russian.,End,write in {language_requested},ru,sharegpt
+"Use Russian. What is the difference between deep learning, machine learning, and artificial intelligence?",Start,use {language_requested},ru,sharegpt
+"What is the difference between deep learning, machine learning, and artificial intelligence? Answer in Russian.",End,answer in {language_requested},ru,sharegpt
+Respond in Russian. Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Start,respond in {language_requested},ru,sharegpt
+Explain in simple terms in Russian how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Middle,in {language_requested},ru,sharegpt
+Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data. Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+Use Russian. Provide a sample CRM requirements document for a company that sells scientific instrumenation,Start,use {language_requested},ru,sharegpt
+Provide a sample CRM requirements document for a company that sells scientific instrumenation. Respond in Russian.,End,respond in {language_requested},ru,sharegpt
+Reply in Russian. What will your eating habits look like in the future?,Start,reply in {language_requested},ru,sharegpt
+What will your eating habits look like in the future? Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+Write in Russian. Define Forensic Science,Start,write in {language_requested},ru,sharegpt
+Define Forensic Science. Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+"Write in Russian. what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems?",Start,write in {language_requested},ru,sharegpt
+"what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems? Use Russian.",End,use {language_requested},ru,sharegpt
+Answer in Russian. Explain quantum computing in simple terms,Start,answer in {language_requested},ru,sharegpt
+Explain quantum computing in simple terms. Use Russian.,End,use {language_requested},ru,sharegpt
+Respond in Russian. which country was the first to adopt communism as the way to develop it economy,Start,respond in {language_requested},ru,sharegpt
+which country was the first to adopt communism as the way to develop it economy. Respond in Russian.,End,respond in {language_requested},ru,sharegpt
+Write in Russian. how can I answer the question: What types of use cases or new plugins do you want to see built?,Start,write in {language_requested},ru,sharegpt
+how can I answer the question: What types of use cases or new plugins do you want to see built? Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+Write in Russian. What services do CRM agencies offer for Consultation and strategy development?,Start,write in {language_requested},ru,sharegpt
+What services do CRM agencies offer for Consultation and strategy development? Answer in Russian.,End,answer in {language_requested},ru,sharegpt
+Respond in Russian. can i use spring state machine and workflow together and is it justified?,Start,respond in {language_requested},ru,sharegpt
+can i use spring state machine and workflow together and is it justified? Write in Russian.,End,write in {language_requested},ru,sharegpt
+Use Russian. where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less.,Start,use {language_requested},ru,sharegpt
+where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less. Use Russian.,End,use {language_requested},ru,sharegpt
+"Use Russian. You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature.",Start,use {language_requested},ru,sharegpt
+"You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature. Answer in Russian.",End,answer in {language_requested},ru,sharegpt
+Use Russian. I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question?,Start,use {language_requested},ru,sharegpt
+I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question? Use Russian.,End,use {language_requested},ru,sharegpt
+"Respond in Russian. what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe?",Start,respond in {language_requested},ru,sharegpt
+"what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe? Write in Russian.",End,write in {language_requested},ru,sharegpt
+Respond in Russian. What are your thoughts about the future of academic libraries in the next 10 years?,Start,respond in {language_requested},ru,sharegpt
+What are your thoughts about the future of academic libraries in the next 10 years? Write in Russian.,End,write in {language_requested},ru,sharegpt
+Reply in Russian. Summarize the sensor portfolio of Infineon,Start,reply in {language_requested},ru,sharegpt
+Summarize the sensor portfolio of Infineon. Write in Russian.,End,write in {language_requested},ru,sharegpt
+Respond in Russian. Can you explain the working principle behind stable diffusion?,Start,respond in {language_requested},ru,sharegpt
+Can you explain in Russian the working principle behind stable diffusion?,Middle,in {language_requested},ru,sharegpt
+Can you explain the working principle behind stable diffusion? Write in Russian.,End,write in {language_requested},ru,sharegpt
+Respond in Russian. what are the best analysis to perform during due diligence of enterprise software companies?,Start,respond in {language_requested},ru,sharegpt
+what are the best analysis to perform during due diligence of enterprise software companies? Write in Russian.,End,write in {language_requested},ru,sharegpt
+Answer in Russian. How could a sociology of the algorithmic art of governing look like?,Start,answer in {language_requested},ru,sharegpt
+How could a sociology of the algorithmic art of governing look like? Respond in Russian.,End,respond in {language_requested},ru,sharegpt
+Write in Russian. what topics are investigated by an underwriter for life insurance?,Start,write in {language_requested},ru,sharegpt
+what topics are investigated by an underwriter for life insurance? Write in Russian.,End,write in {language_requested},ru,sharegpt
+"Write in Russian. What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario",Start,write in {language_requested},ru,sharegpt
+"What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario. Reply in Russian.",End,reply in {language_requested},ru,sharegpt
+Reply in Russian. Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Start,reply in {language_requested},ru,sharegpt
+Write a project proposal in Russian on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Middle,in {language_requested},ru,sharegpt
+Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities. Use Russian.,End,use {language_requested},ru,sharegpt
+Use Russian. explain database sharding,Start,use {language_requested},ru,sharegpt
+explain database sharding. Write in Russian.,End,write in {language_requested},ru,sharegpt
+"Respond in Russian. Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Start,respond in {language_requested},ru,sharegpt
+"Read and summarize in Russian the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Middle,in {language_requested},ru,sharegpt
+"Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation"". Write in Russian.",End,write in {language_requested},ru,sharegpt
+Use Russian. What are the steps to become a conglomerate?,Start,use {language_requested},ru,sharegpt
+What are the steps to become a conglomerate? Use Russian.,End,use {language_requested},ru,sharegpt
+Write in Russian. What is the best way to forecast sales for a meal replacement product for the following year?,Start,write in {language_requested},ru,sharegpt
+What is the best way to forecast sales for a meal replacement product for the following year? Write in Russian.,End,write in {language_requested},ru,sharegpt
