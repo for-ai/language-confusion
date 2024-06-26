@@ -29,7 +29,6 @@ def normalize(text: str) -> str:
     text = text.translate(str.maketrans("", "", string.punctuation))
     text = text.replace("—", " ")
     text = text.replace("،", "")
-    text = text.replace("#", "")
     return text
 
 
@@ -116,7 +115,7 @@ def compute_all_metrics(outputs: list[dict]) -> dict[str, dict[str, float]]:
     {
         ('okapi', 'fr'): {'lpr': 0.5},               # scores for French Okapi
         ('okapi', 'all'): {'wpr': 1.0, 'lpr': 0.5},  # averages over the Okapi source
-        ('all', 'fr'): {'lpr': 1.0},                 # averages over the French language
+        ('all', 'fr'): {'lpr': 0.5},                 # averages over the French language
         ('all', 'all'): {'wpr': 1.0, 'lpr': 0.5},    # overall average
     }
     ```
