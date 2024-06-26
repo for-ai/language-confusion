@@ -1,0 +1,101 @@
+prompt,location,phrasing,language,source
+Reply in Turkish. What is a Salesforce digital expierence,Start,reply in {language_requested},tr,sharegpt
+What is a Salesforce digital expierence. Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Write in Turkish. What is the process of technological exploration in the context of technology roadmapping and implementation,Start,write in {language_requested},tr,sharegpt
+What is the process of technological exploration in the context of technology roadmapping and implementation. Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Use Turkish. Invent a global digital government.,Start,use {language_requested},tr,sharegpt
+Invent a global digital government. Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+Answer in Turkish. Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature?,Start,answer in {language_requested},tr,sharegpt
+Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature? Use Turkish.,End,use {language_requested},tr,sharegpt
+"Write in Turkish. Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution.""",Start,write in {language_requested},tr,sharegpt
+"Write Research Proposal Paper in Turkish on ""Study the effect of different fertilizer types on Environmental Pollution.""",Middle,in {language_requested},tr,sharegpt
+"Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution."". Reply in Turkish.",End,reply in {language_requested},tr,sharegpt
+Write in Turkish. How will electric cars affect traditional automobile industry,Start,write in {language_requested},tr,sharegpt
+How will electric cars affect traditional automobile industry. Reply in Turkish.,End,reply in {language_requested},tr,sharegpt
+Reply in Turkish. How does Medium's recommendation system work?,Start,reply in {language_requested},tr,sharegpt
+How does Medium's recommendation system work? Use Turkish.,End,use {language_requested},tr,sharegpt
+"Use Turkish. Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Start,use {language_requested},tr,sharegpt
+"Draft an in-class activity in Turkish that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Middle,in {language_requested},tr,sharegpt
+"Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students. Use Turkish.",End,use {language_requested},tr,sharegpt
+"Respond in Turkish. You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Start,respond in {language_requested},tr,sharegpt
+"You are a medical communications expert. Please provide a summary in Turkish on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Middle,in {language_requested},tr,sharegpt
+"You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials. Reply in Turkish.",End,reply in {language_requested},tr,sharegpt
+Use Turkish. Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen,Start,use {language_requested},tr,sharegpt
+Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen. Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+Respond in Turkish. What does an annual report contains?,Start,respond in {language_requested},tr,sharegpt
+What does an annual report contains? Use Turkish.,End,use {language_requested},tr,sharegpt
+"Write in Turkish. what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc",Start,write in {language_requested},tr,sharegpt
+"what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc. Reply in Turkish.",End,reply in {language_requested},tr,sharegpt
+Reply in Turkish. What is a times and motion study?,Start,reply in {language_requested},tr,sharegpt
+What is a times and motion study? Respond in Turkish.,End,respond in {language_requested},tr,sharegpt
+Respond in Turkish. i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on,Start,respond in {language_requested},tr,sharegpt
+i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on. Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Use Turkish. write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business,Start,use {language_requested},tr,sharegpt
+write a product requirements document in Turkish for a software that helps entrepreneurs identify a target market and begin building a business,Middle,in {language_requested},tr,sharegpt
+write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business. Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+"Respond in Turkish. What is a ""interactive engineering model "" related to self-learning",Start,respond in {language_requested},tr,sharegpt
+"What is a ""interactive engineering model "" related to self-learning. Reply in Turkish.",End,reply in {language_requested},tr,sharegpt
+Reply in Turkish. How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations?,Start,reply in {language_requested},tr,sharegpt
+How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations? Reply in Turkish.,End,reply in {language_requested},tr,sharegpt
+Write in Turkish. What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources?,Start,write in {language_requested},tr,sharegpt
+What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources? Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Reply in Turkish. explain me key concepts of the economic dimension of globalization,Start,reply in {language_requested},tr,sharegpt
+explain me key concepts of the economic dimension of globalization. Write in Turkish.,End,write in {language_requested},tr,sharegpt
+"Use Turkish. What is the difference between deep learning, machine learning, and artificial intelligence?",Start,use {language_requested},tr,sharegpt
+"What is the difference between deep learning, machine learning, and artificial intelligence? Answer in Turkish.",End,answer in {language_requested},tr,sharegpt
+Respond in Turkish. Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Start,respond in {language_requested},tr,sharegpt
+Explain in simple terms in Turkish how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Middle,in {language_requested},tr,sharegpt
+Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data. Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+Use Turkish. Provide a sample CRM requirements document for a company that sells scientific instrumenation,Start,use {language_requested},tr,sharegpt
+Provide a sample CRM requirements document for a company that sells scientific instrumenation. Respond in Turkish.,End,respond in {language_requested},tr,sharegpt
+Reply in Turkish. What will your eating habits look like in the future?,Start,reply in {language_requested},tr,sharegpt
+What will your eating habits look like in the future? Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+Write in Turkish. Define Forensic Science,Start,write in {language_requested},tr,sharegpt
+Define Forensic Science. Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+"Write in Turkish. what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems?",Start,write in {language_requested},tr,sharegpt
+"what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems? Use Turkish.",End,use {language_requested},tr,sharegpt
+Answer in Turkish. Explain quantum computing in simple terms,Start,answer in {language_requested},tr,sharegpt
+Explain quantum computing in simple terms. Use Turkish.,End,use {language_requested},tr,sharegpt
+Respond in Turkish. which country was the first to adopt communism as the way to develop it economy,Start,respond in {language_requested},tr,sharegpt
+which country was the first to adopt communism as the way to develop it economy. Respond in Turkish.,End,respond in {language_requested},tr,sharegpt
+Write in Turkish. how can I answer the question: What types of use cases or new plugins do you want to see built?,Start,write in {language_requested},tr,sharegpt
+how can I answer the question: What types of use cases or new plugins do you want to see built? Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+Write in Turkish. What services do CRM agencies offer for Consultation and strategy development?,Start,write in {language_requested},tr,sharegpt
+What services do CRM agencies offer for Consultation and strategy development? Answer in Turkish.,End,answer in {language_requested},tr,sharegpt
+Respond in Turkish. can i use spring state machine and workflow together and is it justified?,Start,respond in {language_requested},tr,sharegpt
+can i use spring state machine and workflow together and is it justified? Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Use Turkish. where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less.,Start,use {language_requested},tr,sharegpt
+where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less. Use Turkish.,End,use {language_requested},tr,sharegpt
+"Use Turkish. You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature.",Start,use {language_requested},tr,sharegpt
+"You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature. Answer in Turkish.",End,answer in {language_requested},tr,sharegpt
+Use Turkish. I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question?,Start,use {language_requested},tr,sharegpt
+I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question? Use Turkish.,End,use {language_requested},tr,sharegpt
+"Respond in Turkish. what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe?",Start,respond in {language_requested},tr,sharegpt
+"what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe? Write in Turkish.",End,write in {language_requested},tr,sharegpt
+Respond in Turkish. What are your thoughts about the future of academic libraries in the next 10 years?,Start,respond in {language_requested},tr,sharegpt
+What are your thoughts about the future of academic libraries in the next 10 years? Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Reply in Turkish. Summarize the sensor portfolio of Infineon,Start,reply in {language_requested},tr,sharegpt
+Summarize the sensor portfolio of Infineon. Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Respond in Turkish. Can you explain the working principle behind stable diffusion?,Start,respond in {language_requested},tr,sharegpt
+Can you explain in Turkish the working principle behind stable diffusion?,Middle,in {language_requested},tr,sharegpt
+Can you explain the working principle behind stable diffusion? Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Respond in Turkish. what are the best analysis to perform during due diligence of enterprise software companies?,Start,respond in {language_requested},tr,sharegpt
+what are the best analysis to perform during due diligence of enterprise software companies? Write in Turkish.,End,write in {language_requested},tr,sharegpt
+Answer in Turkish. How could a sociology of the algorithmic art of governing look like?,Start,answer in {language_requested},tr,sharegpt
+How could a sociology of the algorithmic art of governing look like? Respond in Turkish.,End,respond in {language_requested},tr,sharegpt
+Write in Turkish. what topics are investigated by an underwriter for life insurance?,Start,write in {language_requested},tr,sharegpt
+what topics are investigated by an underwriter for life insurance? Write in Turkish.,End,write in {language_requested},tr,sharegpt
+"Write in Turkish. What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario",Start,write in {language_requested},tr,sharegpt
+"What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario. Reply in Turkish.",End,reply in {language_requested},tr,sharegpt
+Reply in Turkish. Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Start,reply in {language_requested},tr,sharegpt
+Write a project proposal in Turkish on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Middle,in {language_requested},tr,sharegpt
+Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities. Use Turkish.,End,use {language_requested},tr,sharegpt
+Use Turkish. explain database sharding,Start,use {language_requested},tr,sharegpt
+explain database sharding. Write in Turkish.,End,write in {language_requested},tr,sharegpt
+"Respond in Turkish. Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Start,respond in {language_requested},tr,sharegpt
+"Read and summarize in Turkish the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Middle,in {language_requested},tr,sharegpt
+"Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation"". Write in Turkish.",End,write in {language_requested},tr,sharegpt
+Use Turkish. What are the steps to become a conglomerate?,Start,use {language_requested},tr,sharegpt
+What are the steps to become a conglomerate? Use Turkish.,End,use {language_requested},tr,sharegpt
+Write in Turkish. What is the best way to forecast sales for a meal replacement product for the following year?,Start,write in {language_requested},tr,sharegpt
+What is the best way to forecast sales for a meal replacement product for the following year? Write in Turkish.,End,write in {language_requested},tr,sharegpt

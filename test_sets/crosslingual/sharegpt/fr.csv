@@ -1,0 +1,101 @@
+prompt,location,phrasing,language,source
+Reply in French. What is a Salesforce digital expierence,Start,reply in {language_requested},fr,sharegpt
+What is a Salesforce digital expierence. Write in French.,End,write in {language_requested},fr,sharegpt
+Write in French. What is the process of technological exploration in the context of technology roadmapping and implementation,Start,write in {language_requested},fr,sharegpt
+What is the process of technological exploration in the context of technology roadmapping and implementation. Write in French.,End,write in {language_requested},fr,sharegpt
+Use French. Invent a global digital government.,Start,use {language_requested},fr,sharegpt
+Invent a global digital government. Answer in French.,End,answer in {language_requested},fr,sharegpt
+Answer in French. Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature?,Start,answer in {language_requested},fr,sharegpt
+Can you Propose improvements on current clean energy solutions or new clean energy alternatives that promote humans to live sustainably with nature? Use French.,End,use {language_requested},fr,sharegpt
+"Write in French. Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution.""",Start,write in {language_requested},fr,sharegpt
+"Write Research Proposal Paper in French on ""Study the effect of different fertilizer types on Environmental Pollution.""",Middle,in {language_requested},fr,sharegpt
+"Write Research Proposal Paper on ""Study the effect of different fertilizer types on Environmental Pollution."". Reply in French.",End,reply in {language_requested},fr,sharegpt
+Write in French. How will electric cars affect traditional automobile industry,Start,write in {language_requested},fr,sharegpt
+How will electric cars affect traditional automobile industry. Reply in French.,End,reply in {language_requested},fr,sharegpt
+Reply in French. How does Medium's recommendation system work?,Start,reply in {language_requested},fr,sharegpt
+How does Medium's recommendation system work? Use French.,End,use {language_requested},fr,sharegpt
+"Use French. Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Start,use {language_requested},fr,sharegpt
+"Draft an in-class activity in French that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students.",Middle,in {language_requested},fr,sharegpt
+"Draft an in-class activity that will help students develop their ability to ""explain how language use reinforces or challenges social norms and stereotypes related to gender."" Students are upper-level college students. Use French.",End,use {language_requested},fr,sharegpt
+"Respond in French. You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Start,respond in {language_requested},fr,sharegpt
+"You are a medical communications expert. Please provide a summary in French on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials",Middle,in {language_requested},fr,sharegpt
+"You are a medical communications expert. Please provide a summary on how pharma companies are approaching diversity and inclusion, and health inequalities globally.  Focus on the general approach and include information on clinical trials. Reply in French.",End,reply in {language_requested},fr,sharegpt
+Use French. Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen,Start,use {language_requested},fr,sharegpt
+Taking the role of a potential collaborator - tell me about ways I could collaborate with Solugen. Answer in French.,End,answer in {language_requested},fr,sharegpt
+Respond in French. What does an annual report contains?,Start,respond in {language_requested},fr,sharegpt
+What does an annual report contains? Use French.,End,use {language_requested},fr,sharegpt
+"Write in French. what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc",Start,write in {language_requested},fr,sharegpt
+"what is the best software for managing employee services/booking services? This could include ordering lunch, booking medical appointments, reserving bike lockers etc. Reply in French.",End,reply in {language_requested},fr,sharegpt
+Reply in French. What is a times and motion study?,Start,reply in {language_requested},fr,sharegpt
+What is a times and motion study? Respond in French.,End,respond in {language_requested},fr,sharegpt
+Respond in French. i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on,Start,respond in {language_requested},fr,sharegpt
+i am using a neural network to do object detection in documents. can you think of documents that might be very repititive that a single company would produce? and describe why they are similar and would be easy to fine tune a NN on. Write in French.,End,write in {language_requested},fr,sharegpt
+Use French. write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business,Start,use {language_requested},fr,sharegpt
+write a product requirements document in French for a software that helps entrepreneurs identify a target market and begin building a business,Middle,in {language_requested},fr,sharegpt
+write a product requirements document for a software that helps entrepreneurs identify a target market and begin building a business. Answer in French.,End,answer in {language_requested},fr,sharegpt
+"Respond in French. What is a ""interactive engineering model "" related to self-learning",Start,respond in {language_requested},fr,sharegpt
+"What is a ""interactive engineering model "" related to self-learning. Reply in French.",End,reply in {language_requested},fr,sharegpt
+Reply in French. How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations?,Start,reply in {language_requested},fr,sharegpt
+How would you use a discrete event simulation of a city to simulate the consequences of extreme cold situations? Reply in French.,End,reply in {language_requested},fr,sharegpt
+Write in French. What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources?,Start,write in {language_requested},fr,sharegpt
+What can you say about the security policy  of Cisco or any network edge device that must be implemented in order to secure the organization's data and resources? Write in French.,End,write in {language_requested},fr,sharegpt
+Reply in French. explain me key concepts of the economic dimension of globalization,Start,reply in {language_requested},fr,sharegpt
+explain me key concepts of the economic dimension of globalization. Write in French.,End,write in {language_requested},fr,sharegpt
+"Use French. What is the difference between deep learning, machine learning, and artificial intelligence?",Start,use {language_requested},fr,sharegpt
+"What is the difference between deep learning, machine learning, and artificial intelligence? Answer in French.",End,answer in {language_requested},fr,sharegpt
+Respond in French. Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Start,respond in {language_requested},fr,sharegpt
+Explain in simple terms in French how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data,Middle,in {language_requested},fr,sharegpt
+Explain in simple terms how clustering techniques can identify disease relevant biomarkers from transcriptomic and proteomic data. Answer in French.,End,answer in {language_requested},fr,sharegpt
+Use French. Provide a sample CRM requirements document for a company that sells scientific instrumenation,Start,use {language_requested},fr,sharegpt
+Provide a sample CRM requirements document for a company that sells scientific instrumenation. Respond in French.,End,respond in {language_requested},fr,sharegpt
+Reply in French. What will your eating habits look like in the future?,Start,reply in {language_requested},fr,sharegpt
+What will your eating habits look like in the future? Answer in French.,End,answer in {language_requested},fr,sharegpt
+Write in French. Define Forensic Science,Start,write in {language_requested},fr,sharegpt
+Define Forensic Science. Answer in French.,End,answer in {language_requested},fr,sharegpt
+"Write in French. what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems?",Start,write in {language_requested},fr,sharegpt
+"what can be some ways AI can help address issues like pollution, climate change and destruction of ecosystems? Use French.",End,use {language_requested},fr,sharegpt
+Answer in French. Explain quantum computing in simple terms,Start,answer in {language_requested},fr,sharegpt
+Explain quantum computing in simple terms. Use French.,End,use {language_requested},fr,sharegpt
+Respond in French. which country was the first to adopt communism as the way to develop it economy,Start,respond in {language_requested},fr,sharegpt
+which country was the first to adopt communism as the way to develop it economy. Respond in French.,End,respond in {language_requested},fr,sharegpt
+Write in French. how can I answer the question: What types of use cases or new plugins do you want to see built?,Start,write in {language_requested},fr,sharegpt
+how can I answer the question: What types of use cases or new plugins do you want to see built? Answer in French.,End,answer in {language_requested},fr,sharegpt
+Write in French. What services do CRM agencies offer for Consultation and strategy development?,Start,write in {language_requested},fr,sharegpt
+What services do CRM agencies offer for Consultation and strategy development? Answer in French.,End,answer in {language_requested},fr,sharegpt
+Respond in French. can i use spring state machine and workflow together and is it justified?,Start,respond in {language_requested},fr,sharegpt
+can i use spring state machine and workflow together and is it justified? Write in French.,End,write in {language_requested},fr,sharegpt
+Use French. where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less.,Start,use {language_requested},fr,sharegpt
+where can I study interior design in Europe? The courses should be online and the certification duration should 1 year or less. Use French.,End,use {language_requested},fr,sharegpt
+"Use French. You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature.",Start,use {language_requested},fr,sharegpt
+"You are a product manager at Notion, and several enterprise customers have requested the ability to visualize their database in Notion. A few 3rd-party tools on the market are trying to offer data visualization capability as integrations. However, the management team believes this is a good opportunity for us to improve the enterprise's offerings by developing native features that allow users to build visualizations inside Notion. How would you build this feature. Answer in French.",End,answer in {language_requested},fr,sharegpt
+Use French. I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question?,Start,use {language_requested},fr,sharegpt
+I'm interested in writing a research paper on why people disagree about morality. What are the the various disciplines and/or fields producing research that is relevant to this question? Use French.,End,use {language_requested},fr,sharegpt
+"Respond in French. what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe?",Start,respond in {language_requested},fr,sharegpt
+"what do you think: given ocams razor says that the simplest explenation is the most likely, might there be a point where the existing quantum physics theories will be replace by much more simple theories or is it more likely that we've reached a point where no more simplification is possible due to the nature of the universe? Write in French.",End,write in {language_requested},fr,sharegpt
+Respond in French. What are your thoughts about the future of academic libraries in the next 10 years?,Start,respond in {language_requested},fr,sharegpt
+What are your thoughts about the future of academic libraries in the next 10 years? Write in French.,End,write in {language_requested},fr,sharegpt
+Reply in French. Summarize the sensor portfolio of Infineon,Start,reply in {language_requested},fr,sharegpt
+Summarize the sensor portfolio of Infineon. Write in French.,End,write in {language_requested},fr,sharegpt
+Respond in French. Can you explain the working principle behind stable diffusion?,Start,respond in {language_requested},fr,sharegpt
+Can you explain in French the working principle behind stable diffusion?,Middle,in {language_requested},fr,sharegpt
+Can you explain the working principle behind stable diffusion? Write in French.,End,write in {language_requested},fr,sharegpt
+Respond in French. what are the best analysis to perform during due diligence of enterprise software companies?,Start,respond in {language_requested},fr,sharegpt
+what are the best analysis to perform during due diligence of enterprise software companies? Write in French.,End,write in {language_requested},fr,sharegpt
+Answer in French. How could a sociology of the algorithmic art of governing look like?,Start,answer in {language_requested},fr,sharegpt
+How could a sociology of the algorithmic art of governing look like? Respond in French.,End,respond in {language_requested},fr,sharegpt
+Write in French. what topics are investigated by an underwriter for life insurance?,Start,write in {language_requested},fr,sharegpt
+what topics are investigated by an underwriter for life insurance? Write in French.,End,write in {language_requested},fr,sharegpt
+"Write in French. What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario",Start,write in {language_requested},fr,sharegpt
+"What are the health and safety requirements for a residential, commercial and istitutional construction company in Ontario. Reply in French.",End,reply in {language_requested},fr,sharegpt
+Reply in French. Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Start,reply in {language_requested},fr,sharegpt
+Write a project proposal in French on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities,Middle,in {language_requested},fr,sharegpt
+Write a project proposal on : Assessing the implementation of sustainable development goals in urban planning practices: Challenges and opportunities. Use French.,End,use {language_requested},fr,sharegpt
+Use French. explain database sharding,Start,use {language_requested},fr,sharegpt
+explain database sharding. Write in French.,End,write in {language_requested},fr,sharegpt
+"Respond in French. Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Start,respond in {language_requested},fr,sharegpt
+"Read and summarize in French the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation""",Middle,in {language_requested},fr,sharegpt
+"Read and summarize the architecture design in ""Deep-Aligned Convolutional Neural Network for Skeleton-Based Action Recognition and Segmentation"". Write in French.",End,write in {language_requested},fr,sharegpt
+Use French. What are the steps to become a conglomerate?,Start,use {language_requested},fr,sharegpt
+What are the steps to become a conglomerate? Use French.,End,use {language_requested},fr,sharegpt
+Write in French. What is the best way to forecast sales for a meal replacement product for the following year?,Start,write in {language_requested},fr,sharegpt
+What is the best way to forecast sales for a meal replacement product for the following year? Write in French.,End,write in {language_requested},fr,sharegpt

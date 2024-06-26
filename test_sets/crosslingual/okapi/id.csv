@@ -1,0 +1,107 @@
+prompt,location,phrasing,language,source
+"Reply in Indonesian. Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities",Start,reply in {language_requested},id,okapi
+"Explain a common misconception about your topic in Indonesian.
+Topic: Using AI to Augment Human Capabilities",Middle,in {language_requested},id,okapi
+"Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities. Write in Indonesian.",End,write in {language_requested},id,okapi
+Write in Indonesian. Explain how the Gini index is calculated.,Start,write in {language_requested},id,okapi
+Explain in Indonesian how the Gini index is calculated.,Middle,in {language_requested},id,okapi
+Explain how the Gini index is calculated. Respond in Indonesian.,End,respond in {language_requested},id,okapi
+Answer in Indonesian. Write four articles on the topic of cryptocurrency with a minimum of 300 words each.,Start,answer in {language_requested},id,okapi
+Write four articles in Indonesian on the topic of cryptocurrency with a minimum of 300 words each.,Middle,in {language_requested},id,okapi
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. Answer in Indonesian.,End,answer in {language_requested},id,okapi
+Answer in Indonesian. Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence.,Start,answer in {language_requested},id,okapi
+Generate an essay in Indonesian of at least 500 words that argues in favor of regulating artificial intelligence.,Middle,in {language_requested},id,okapi
+Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence. Reply in Indonesian.,End,reply in {language_requested},id,okapi
+Reply in Indonesian. Write an 1850-word horror story.,Start,reply in {language_requested},id,okapi
+Write an 1850-word horror story in Indonesian.,Middle,in {language_requested},id,okapi
+Write an 1850-word horror story. Write in Indonesian.,End,write in {language_requested},id,okapi
+"Respond in Indonesian. Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"".",Start,respond in {language_requested},id,okapi
+"Write a 500 word report summarizing the article in Indonesian: ""The Impact of Brexit on the United Kingdom"".",Middle,in {language_requested},id,okapi
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". Respond in Indonesian.",End,respond in {language_requested},id,okapi
+Answer in Indonesian. Write a 500 word article about the benefits of organic food.,Start,answer in {language_requested},id,okapi
+Write a 500 word article in Indonesian about the benefits of organic food.,Middle,in {language_requested},id,okapi
+Write a 500 word article about the benefits of organic food. Write in Indonesian.,End,write in {language_requested},id,okapi
+Respond in Indonesian. Write a persuasive essay about why the redistribution of wealth is necessary.,Start,respond in {language_requested},id,okapi
+Write a persuasive essay in Indonesian about why the redistribution of wealth is necessary.,Middle,in {language_requested},id,okapi
+Write a persuasive essay about why the redistribution of wealth is necessary. Answer in Indonesian.,End,answer in {language_requested},id,okapi
+Respond in Indonesian. Generate an argumentative essay about the importance of healthy eating.,Start,respond in {language_requested},id,okapi
+Generate an argumentative essay in Indonesian about the importance of healthy eating.,Middle,in {language_requested},id,okapi
+Generate an argumentative essay about the importance of healthy eating. Write in Indonesian.,End,write in {language_requested},id,okapi
+Answer in Indonesian. Write an opinion article on artificial intelligence in 500-700 words.,Start,answer in {language_requested},id,okapi
+Write an opinion article in Indonesian on artificial intelligence in 500-700 words.,Middle,in {language_requested},id,okapi
+Write an opinion article on artificial intelligence in 500-700 words. Use Indonesian.,End,use {language_requested},id,okapi
+Use Indonesian. Generate a creative story which is at least 500 words long.,Start,use {language_requested},id,okapi
+Generate a creative story in Indonesian which is at least 500 words long.,Middle,in {language_requested},id,okapi
+Generate a creative story which is at least 500 words long. Write in Indonesian.,End,write in {language_requested},id,okapi
+Respond in Indonesian. Generate an essay discussing the importance of recycling.,Start,respond in {language_requested},id,okapi
+Generate an essay in Indonesian discussing the importance of recycling.,Middle,in {language_requested},id,okapi
+Generate an essay discussing the importance of recycling. Write in Indonesian.,End,write in {language_requested},id,okapi
+Write in Indonesian. Write a 250-word article summarizing the changes brought about by Brexit.,Start,write in {language_requested},id,okapi
+Write a 250-word article in Indonesian summarizing the changes brought about by Brexit.,Middle,in {language_requested},id,okapi
+Write a 250-word article summarizing the changes brought about by Brexit. Write in Indonesian.,End,write in {language_requested},id,okapi
+Use Indonesian. Generate a 500-word story about a man who finds himself in an unfamiliar city.,Start,use {language_requested},id,okapi
+Generate a 500-word story in Indonesian about a man who finds himself in an unfamiliar city.,Middle,in {language_requested},id,okapi
+Generate a 500-word story about a man who finds himself in an unfamiliar city. Reply in Indonesian.,End,reply in {language_requested},id,okapi
+Reply in Indonesian. Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Start,reply in {language_requested},id,okapi
+Generate a science fiction story in Indonesian of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Middle,in {language_requested},id,okapi
+Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time. Use Indonesian.,End,use {language_requested},id,okapi
+"Reply in Indonesian. Write a 500-word article on the topic of ""Effective Communication Skills"".",Start,reply in {language_requested},id,okapi
+"Write a 500-word article in Indonesian on the topic of ""Effective Communication Skills"".",Middle,in {language_requested},id,okapi
+"Write a 500-word article on the topic of ""Effective Communication Skills"". Reply in Indonesian.",End,reply in {language_requested},id,okapi
+Reply in Indonesian. Generate an essay of 500 words on the topic of machine learning.,Start,reply in {language_requested},id,okapi
+Generate an essay in Indonesian of 500 words on the topic of machine learning.,Middle,in {language_requested},id,okapi
+Generate an essay of 500 words on the topic of machine learning. Use Indonesian.,End,use {language_requested},id,okapi
+Respond in Indonesian. Compose a 500 word essay discussing the pros and cons of genetically modified food,Start,respond in {language_requested},id,okapi
+Compose a 500 word essay in Indonesian discussing the pros and cons of genetically modified food,Middle,in {language_requested},id,okapi
+Compose a 500 word essay discussing the pros and cons of genetically modified food. Write in Indonesian.,End,write in {language_requested},id,okapi
+Respond in Indonesian. Write a 500 word essay on the causes of poverty.,Start,respond in {language_requested},id,okapi
+Write a 500 word essay in Indonesian on the causes of poverty.,Middle,in {language_requested},id,okapi
+Write a 500 word essay on the causes of poverty. Reply in Indonesian.,End,reply in {language_requested},id,okapi
+Answer in Indonesian. Write a blog post advocating for teaching students coding skills in school.,Start,answer in {language_requested},id,okapi
+Write a blog post in Indonesian advocating for teaching students coding skills in school.,Middle,in {language_requested},id,okapi
+Write a blog post advocating for teaching students coding skills in school. Answer in Indonesian.,End,answer in {language_requested},id,okapi
+Write in Indonesian. Identify three types of government assistance that could help startups during the economic downturn.,Start,write in {language_requested},id,okapi
+Identify in Indonesian three types of government assistance that could help startups during the economic downturn.,Middle,in {language_requested},id,okapi
+Identify three types of government assistance that could help startups during the economic downturn. Answer in Indonesian.,End,answer in {language_requested},id,okapi
+Write in Indonesian. Write a 500-word story in the horror genre.,Start,write in {language_requested},id,okapi
+Write a 500-word story in Indonesian in the horror genre.,Middle,in {language_requested},id,okapi
+Write a 500-word story in the horror genre. Answer in Indonesian.,End,answer in {language_requested},id,okapi
+Reply in Indonesian. Generate a blog post of 500 words or less that discusses a chosen topic,Start,reply in {language_requested},id,okapi
+Generate a blog post in Indonesian of 500 words or less that discusses a chosen topic,Middle,in {language_requested},id,okapi
+Generate a blog post of 500 words or less that discusses a chosen topic. Respond in Indonesian.,End,respond in {language_requested},id,okapi
+"Answer in Indonesian. Compose an essay from the given statement.
+The importance of music education in our lives.",Start,answer in {language_requested},id,okapi
+"Compose an essay in Indonesian from the given statement.
+The importance of music education in our lives.",Middle,in {language_requested},id,okapi
+"Compose an essay from the given statement.
+The importance of music education in our lives. Reply in Indonesian.",End,reply in {language_requested},id,okapi
+Answer in Indonesian. Write a 250 word essay about Coral Reef Conservation,Start,answer in {language_requested},id,okapi
+Write a 250 word essay in Indonesian about Coral Reef Conservation,Middle,in {language_requested},id,okapi
+Write a 250 word essay about Coral Reef Conservation. Use Indonesian.,End,use {language_requested},id,okapi
+Reply in Indonesian. Create a recipe for a delicious and healthy vegan three-course meal.,Start,reply in {language_requested},id,okapi
+Create a recipe in Indonesian for a delicious and healthy vegan three-course meal.,Middle,in {language_requested},id,okapi
+Create a recipe for a delicious and healthy vegan three-course meal. Respond in Indonesian.,End,respond in {language_requested},id,okapi
+"Use Indonesian. Turn this sentence into a metaphor: ""The night sky was a blanket of stars"".",Start,use {language_requested},id,okapi
+"Turn this sentence into a metaphor in Indonesian: ""The night sky was a blanket of stars"".",Middle,in {language_requested},id,okapi
+"Turn this sentence into a metaphor: ""The night sky was a blanket of stars"". Respond in Indonesian.",End,respond in {language_requested},id,okapi
+Respond in Indonesian. Write a 3-page article discussing the impact of COVID-19 on the global economy,Start,respond in {language_requested},id,okapi
+Write a 3-page article in Indonesian discussing the impact of COVID-19 on the global economy,Middle,in {language_requested},id,okapi
+Write a 3-page article discussing the impact of COVID-19 on the global economy. Answer in Indonesian.,End,answer in {language_requested},id,okapi
+Use Indonesian. Write a sample essay of 500 words on the topic of artificial intelligence.,Start,use {language_requested},id,okapi
+Write a sample essay in Indonesian of 500 words on the topic of artificial intelligence.,Middle,in {language_requested},id,okapi
+Write a sample essay of 500 words on the topic of artificial intelligence. Respond in Indonesian.,End,respond in {language_requested},id,okapi
+Reply in Indonesian. Write a short persuasive essay about the importance of voting.,Start,reply in {language_requested},id,okapi
+Write a short persuasive essay in Indonesian about the importance of voting.,Middle,in {language_requested},id,okapi
+Write a short persuasive essay about the importance of voting. Write in Indonesian.,End,write in {language_requested},id,okapi
+Use Indonesian. Generate a blog post of at least 500 words about machine learning.,Start,use {language_requested},id,okapi
+Generate a blog post in Indonesian of at least 500 words about machine learning.,Middle,in {language_requested},id,okapi
+Generate a blog post of at least 500 words about machine learning. Write in Indonesian.,End,write in {language_requested},id,okapi
+Reply in Indonesian. Write a blog post discussing the key ethical considerations of AI autonomous weapons.,Start,reply in {language_requested},id,okapi
+Write a blog post in Indonesian discussing the key ethical considerations of AI autonomous weapons.,Middle,in {language_requested},id,okapi
+Write a blog post discussing the key ethical considerations of AI autonomous weapons. Respond in Indonesian.,End,respond in {language_requested},id,okapi
+Reply in Indonesian. Generate a scientific report of  900 words discussing the effects of global warming on the Arctic,Start,reply in {language_requested},id,okapi
+Generate a scientific report in Indonesian of  900 words discussing the effects of global warming on the Arctic,Middle,in {language_requested},id,okapi
+Generate a scientific report of  900 words discussing the effects of global warming on the Arctic. Use Indonesian.,End,use {language_requested},id,okapi
+Write in Indonesian. Create a story for a children's book about a crocodile.,Start,write in {language_requested},id,okapi

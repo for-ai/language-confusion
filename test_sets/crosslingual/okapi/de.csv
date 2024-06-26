@@ -1,0 +1,107 @@
+prompt,location,phrasing,language,source
+"Reply in German. Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities",Start,reply in {language_requested},de,okapi
+"Explain a common misconception about your topic in German.
+Topic: Using AI to Augment Human Capabilities",Middle,in {language_requested},de,okapi
+"Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities. Write in German.",End,write in {language_requested},de,okapi
+Write in German. Explain how the Gini index is calculated.,Start,write in {language_requested},de,okapi
+Explain in German how the Gini index is calculated.,Middle,in {language_requested},de,okapi
+Explain how the Gini index is calculated. Respond in German.,End,respond in {language_requested},de,okapi
+Answer in German. Write four articles on the topic of cryptocurrency with a minimum of 300 words each.,Start,answer in {language_requested},de,okapi
+Write four articles in German on the topic of cryptocurrency with a minimum of 300 words each.,Middle,in {language_requested},de,okapi
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. Answer in German.,End,answer in {language_requested},de,okapi
+Answer in German. Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence.,Start,answer in {language_requested},de,okapi
+Generate an essay in German of at least 500 words that argues in favor of regulating artificial intelligence.,Middle,in {language_requested},de,okapi
+Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence. Reply in German.,End,reply in {language_requested},de,okapi
+Reply in German. Write an 1850-word horror story.,Start,reply in {language_requested},de,okapi
+Write an 1850-word horror story in German.,Middle,in {language_requested},de,okapi
+Write an 1850-word horror story. Write in German.,End,write in {language_requested},de,okapi
+"Respond in German. Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"".",Start,respond in {language_requested},de,okapi
+"Write a 500 word report summarizing the article in German: ""The Impact of Brexit on the United Kingdom"".",Middle,in {language_requested},de,okapi
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". Respond in German.",End,respond in {language_requested},de,okapi
+Answer in German. Write a 500 word article about the benefits of organic food.,Start,answer in {language_requested},de,okapi
+Write a 500 word article in German about the benefits of organic food.,Middle,in {language_requested},de,okapi
+Write a 500 word article about the benefits of organic food. Write in German.,End,write in {language_requested},de,okapi
+Respond in German. Write a persuasive essay about why the redistribution of wealth is necessary.,Start,respond in {language_requested},de,okapi
+Write a persuasive essay in German about why the redistribution of wealth is necessary.,Middle,in {language_requested},de,okapi
+Write a persuasive essay about why the redistribution of wealth is necessary. Answer in German.,End,answer in {language_requested},de,okapi
+Respond in German. Generate an argumentative essay about the importance of healthy eating.,Start,respond in {language_requested},de,okapi
+Generate an argumentative essay in German about the importance of healthy eating.,Middle,in {language_requested},de,okapi
+Generate an argumentative essay about the importance of healthy eating. Write in German.,End,write in {language_requested},de,okapi
+Answer in German. Write an opinion article on artificial intelligence in 500-700 words.,Start,answer in {language_requested},de,okapi
+Write an opinion article in German on artificial intelligence in 500-700 words.,Middle,in {language_requested},de,okapi
+Write an opinion article on artificial intelligence in 500-700 words. Use German.,End,use {language_requested},de,okapi
+Use German. Generate a creative story which is at least 500 words long.,Start,use {language_requested},de,okapi
+Generate a creative story in German which is at least 500 words long.,Middle,in {language_requested},de,okapi
+Generate a creative story which is at least 500 words long. Write in German.,End,write in {language_requested},de,okapi
+Respond in German. Generate an essay discussing the importance of recycling.,Start,respond in {language_requested},de,okapi
+Generate an essay in German discussing the importance of recycling.,Middle,in {language_requested},de,okapi
+Generate an essay discussing the importance of recycling. Write in German.,End,write in {language_requested},de,okapi
+Write in German. Write a 250-word article summarizing the changes brought about by Brexit.,Start,write in {language_requested},de,okapi
+Write a 250-word article in German summarizing the changes brought about by Brexit.,Middle,in {language_requested},de,okapi
+Write a 250-word article summarizing the changes brought about by Brexit. Write in German.,End,write in {language_requested},de,okapi
+Use German. Generate a 500-word story about a man who finds himself in an unfamiliar city.,Start,use {language_requested},de,okapi
+Generate a 500-word story in German about a man who finds himself in an unfamiliar city.,Middle,in {language_requested},de,okapi
+Generate a 500-word story about a man who finds himself in an unfamiliar city. Reply in German.,End,reply in {language_requested},de,okapi
+Reply in German. Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Start,reply in {language_requested},de,okapi
+Generate a science fiction story in German of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Middle,in {language_requested},de,okapi
+Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time. Use German.,End,use {language_requested},de,okapi
+"Reply in German. Write a 500-word article on the topic of ""Effective Communication Skills"".",Start,reply in {language_requested},de,okapi
+"Write a 500-word article in German on the topic of ""Effective Communication Skills"".",Middle,in {language_requested},de,okapi
+"Write a 500-word article on the topic of ""Effective Communication Skills"". Reply in German.",End,reply in {language_requested},de,okapi
+Reply in German. Generate an essay of 500 words on the topic of machine learning.,Start,reply in {language_requested},de,okapi
+Generate an essay in German of 500 words on the topic of machine learning.,Middle,in {language_requested},de,okapi
+Generate an essay of 500 words on the topic of machine learning. Use German.,End,use {language_requested},de,okapi
+Respond in German. Compose a 500 word essay discussing the pros and cons of genetically modified food,Start,respond in {language_requested},de,okapi
+Compose a 500 word essay in German discussing the pros and cons of genetically modified food,Middle,in {language_requested},de,okapi
+Compose a 500 word essay discussing the pros and cons of genetically modified food. Write in German.,End,write in {language_requested},de,okapi
+Respond in German. Write a 500 word essay on the causes of poverty.,Start,respond in {language_requested},de,okapi
+Write a 500 word essay in German on the causes of poverty.,Middle,in {language_requested},de,okapi
+Write a 500 word essay on the causes of poverty. Reply in German.,End,reply in {language_requested},de,okapi
+Answer in German. Write a blog post advocating for teaching students coding skills in school.,Start,answer in {language_requested},de,okapi
+Write a blog post in German advocating for teaching students coding skills in school.,Middle,in {language_requested},de,okapi
+Write a blog post advocating for teaching students coding skills in school. Answer in German.,End,answer in {language_requested},de,okapi
+Write in German. Identify three types of government assistance that could help startups during the economic downturn.,Start,write in {language_requested},de,okapi
+Identify in German three types of government assistance that could help startups during the economic downturn.,Middle,in {language_requested},de,okapi
+Identify three types of government assistance that could help startups during the economic downturn. Answer in German.,End,answer in {language_requested},de,okapi
+Write in German. Write a 500-word story in the horror genre.,Start,write in {language_requested},de,okapi
+Write a 500-word story in German in the horror genre.,Middle,in {language_requested},de,okapi
+Write a 500-word story in the horror genre. Answer in German.,End,answer in {language_requested},de,okapi
+Reply in German. Generate a blog post of 500 words or less that discusses a chosen topic,Start,reply in {language_requested},de,okapi
+Generate a blog post in German of 500 words or less that discusses a chosen topic,Middle,in {language_requested},de,okapi
+Generate a blog post of 500 words or less that discusses a chosen topic. Respond in German.,End,respond in {language_requested},de,okapi
+"Answer in German. Compose an essay from the given statement.
+The importance of music education in our lives.",Start,answer in {language_requested},de,okapi
+"Compose an essay in German from the given statement.
+The importance of music education in our lives.",Middle,in {language_requested},de,okapi
+"Compose an essay from the given statement.
+The importance of music education in our lives. Reply in German.",End,reply in {language_requested},de,okapi
+Answer in German. Write a 250 word essay about Coral Reef Conservation,Start,answer in {language_requested},de,okapi
+Write a 250 word essay in German about Coral Reef Conservation,Middle,in {language_requested},de,okapi
+Write a 250 word essay about Coral Reef Conservation. Use German.,End,use {language_requested},de,okapi
+Reply in German. Create a recipe for a delicious and healthy vegan three-course meal.,Start,reply in {language_requested},de,okapi
+Create a recipe in German for a delicious and healthy vegan three-course meal.,Middle,in {language_requested},de,okapi
+Create a recipe for a delicious and healthy vegan three-course meal. Respond in German.,End,respond in {language_requested},de,okapi
+"Use German. Turn this sentence into a metaphor: ""The night sky was a blanket of stars"".",Start,use {language_requested},de,okapi
+"Turn this sentence into a metaphor in German: ""The night sky was a blanket of stars"".",Middle,in {language_requested},de,okapi
+"Turn this sentence into a metaphor: ""The night sky was a blanket of stars"". Respond in German.",End,respond in {language_requested},de,okapi
+Respond in German. Write a 3-page article discussing the impact of COVID-19 on the global economy,Start,respond in {language_requested},de,okapi
+Write a 3-page article in German discussing the impact of COVID-19 on the global economy,Middle,in {language_requested},de,okapi
+Write a 3-page article discussing the impact of COVID-19 on the global economy. Answer in German.,End,answer in {language_requested},de,okapi
+Use German. Write a sample essay of 500 words on the topic of artificial intelligence.,Start,use {language_requested},de,okapi
+Write a sample essay in German of 500 words on the topic of artificial intelligence.,Middle,in {language_requested},de,okapi
+Write a sample essay of 500 words on the topic of artificial intelligence. Respond in German.,End,respond in {language_requested},de,okapi
+Reply in German. Write a short persuasive essay about the importance of voting.,Start,reply in {language_requested},de,okapi
+Write a short persuasive essay in German about the importance of voting.,Middle,in {language_requested},de,okapi
+Write a short persuasive essay about the importance of voting. Write in German.,End,write in {language_requested},de,okapi
+Use German. Generate a blog post of at least 500 words about machine learning.,Start,use {language_requested},de,okapi
+Generate a blog post in German of at least 500 words about machine learning.,Middle,in {language_requested},de,okapi
+Generate a blog post of at least 500 words about machine learning. Write in German.,End,write in {language_requested},de,okapi
+Reply in German. Write a blog post discussing the key ethical considerations of AI autonomous weapons.,Start,reply in {language_requested},de,okapi
+Write a blog post in German discussing the key ethical considerations of AI autonomous weapons.,Middle,in {language_requested},de,okapi
+Write a blog post discussing the key ethical considerations of AI autonomous weapons. Respond in German.,End,respond in {language_requested},de,okapi
+Reply in German. Generate a scientific report of  900 words discussing the effects of global warming on the Arctic,Start,reply in {language_requested},de,okapi
+Generate a scientific report in German of  900 words discussing the effects of global warming on the Arctic,Middle,in {language_requested},de,okapi
+Generate a scientific report of  900 words discussing the effects of global warming on the Arctic. Use German.,End,use {language_requested},de,okapi
+Write in German. Create a story for a children's book about a crocodile.,Start,write in {language_requested},de,okapi

@@ -1,0 +1,110 @@
+prompt,source,language
+Quelles sont les cinq façons de manger des pommes ?,dolly_human_edited,fr
+Comment peut-on s'échapper d'un hélicoptère piégé dans l'eau ?,dolly_human_edited,fr
+Comment peux-tu ouvrir une boîte de conserve sans utiliser tes mains ?,dolly_human_edited,fr
+Quels cadeaux pourrais-je offrir à un tout-petit curieux ?,dolly_human_edited,fr
+Comment pourrais-je remonter le moral de mon ami qui vient d'être largué ?,dolly_human_edited,fr
+Suggérez-moi 5 films d'horreur,dolly_human_edited,fr
+Pouvez-vous m'aider à éviter les dettes de carte de crédit ?,dolly_human_edited,fr
+Quels sont les bons exercices pour le haut du corps ?,dolly_human_edited,fr
+Quels sont les avantages si je pouvais tourner la tête comme un hibou ?,dolly_human_edited,fr
+5 façons dont les animaux communiquent,dolly_human_edited,fr
+Comment puis-je devenir meilleur à tirer une balle de basket ?,dolly_human_edited,fr
+Donnez-moi une liste de quelques caractéristiques d'un bon café.,dolly_human_edited,fr
+Donnez-moi cinq façons de rendre ma bière maison plus intéressante.,dolly_human_edited,fr
+Donnez-moi un tas de façons de garder ma maison fraîche pendant l'été,dolly_human_edited,fr
+Quelles formes sont composées de lignes droites ?,dolly_human_edited,fr
+Quelles sont quelques façons d'améliorer la valeur de votre maison ?,dolly_human_edited,fr
+Aidez-moi à trouver 3 idées pour une nouvelle entreprise et comment je peux la commencer,dolly_human_edited,fr
+Quels articles vestimentaires les gens portent-ils souvent en été ?,dolly_human_edited,fr
+Expliquez comment fonctionne une montre mécanique.,dolly_human_edited,fr
+Quels critères doit-je prendre en compte pour l'achat d'une nouvelle moto ?,dolly_human_edited,fr
+"Quelles sont cinq façons, complètement distinctes et créatives, de décrire l'utilité d'un esprit oisif ?",dolly_human_edited,fr
+Quelles sont quelques idées de réduction de l'utilisation du plastique ?,dolly_human_edited,fr
+Quels sont des coups de natation courants ?,dolly_human_edited,fr
+"Indiquez si ce sont des pays, des villes, des continents ou aucun : Australie, Mexique, Mexico, Antarctique, Singapour, Inde, Golfe, Pékin, Jakarta, Luxembourg, le Vatican.",dolly_human_edited,fr
+"Sur un vol, je ne peux apporter que trois des articles suivants : une épée, un livre, un téléphone, une valise, un perroquet, un avion. Lesquels devrait-je apporter ?",dolly_human_edited,fr
+"Classifier chacun des éléments suivants selon qu'ils aident ou nuisent à la vision : lunettes, jumelles, bandeau, masque de sommeil, télescope",dolly_human_edited,fr
+"Vous allez au magasin par vélo et votre vélo a un panier. Quels objets pouvez-vous emporter avec vous ? Une brosse à dents, une télévision, une barre de savon, une paire de pantalons, une paire de skis, une miche de pain, un tigre, un chargeur de téléphone",dolly_human_edited,fr
+"Choisissez si les objets suivants seraient utiles ou inutiles pour un lycéen à mettre dans leur sac à dos. Des cahiers, des manuels, une lampe de bureau, une poche à crayons, un ballon de plage, un oreiller, un ordinateur portable.",dolly_human_edited,fr
+"Dites-moi lesquels des pays suivants font partie de l'Union européenne : les Pays-Bas, la Suisse, l'Allemagne, la Finlande, le Royaume-Uni, l'Italie, le Luxembourg, la Turquie, l'Australie, le Vietnam, le Canada.",dolly_human_edited,fr
+"Quels sont les types d'actifs immobiliers suivants : maisons unifamiliales, maisons multifamiliales, appartements, condos, maisons de ville, pierres, terre, voitures, diamants, or, terre, eau, portes.",dolly_human_edited,fr
+"Donné ce paragraphe sur Drangajökull, dites-moi où il est situé.
+contexte : Drangajökull (prononcé [ˈtrauŋkaˌjœːkʏtl<unk>], régionalement aussi [ˈtraŋk-]) est le glacier le plus au nord de l'Islande. Elle est située au sud-ouest de la péninsule de Hornstrandir dans la région des Westfjords. Le glacier couvre une superficie de 160 à 200 km2, à une altitude allant jusqu'à 925 m. C'est le seul glacier islandais qui se trouve entièrement en dessous d'une altitude de 1000 mètres et aussi le seul qui n'a pas diminué au cours des dernières années.",dolly_human_edited,fr
+"Où sont situés les Himalayas?
+contexte: Les Himalayas, ou Himalaya (/ˌhɪməˈleɪ.ə, hɪˈmɑːləjə/; Sanskrit: [ɦɪmaːlɐjɐ]; du sanskrit himá 'neige, givre', et ā-laya 'logement, demeure'), est une chaîne de montagnes en Asie, séparant les plaines du sous-continent indien du plateau tibétain. La chaîne possède certains des plus hauts sommets de la planète, y compris le plus haut, le mont Everest. Plus de 100 sommets dépassant 7 200 m d'altitude se trouvent dans l'Himalaya.",dolly_human_edited,fr
+"Étant donné un texte de référence sur Tom Brady, dites-moi quand ils sont nés et pour quoi ils sont célèbres.
+ contexte: Thomas Edward Patrick Brady Jr. (né le 3 août 1977) est un ancien quart-arrière de football américain qui a joué dans la National Football League (NFL) pendant 23 saisons. Il a passé ses 20 premières saisons avec les Patriots de la Nouvelle-Angleterre et a été un contributeur central à la dynastie de la franchise de 2001 à 2019. Au cours de ses trois dernières saisons, il était un membre des Tampa Bay Buccaneers. Brady est largement considéré comme le plus grand quarterback de tous les temps.",dolly_human_edited,fr
+"Pourquoi George H.W. Bush a-t-il perdu la présidence?
+ contexte: Bush a perdu les élections présidentielles de 1992 face au démocrate Bill Clinton à la suite d'une récession économique, de son revirement sur sa promesse fiscale et de la diminution de l'importance de la politique étrangère dans un climat politique post-guerre froide.",dolly_human_edited,fr
+"Que signifie le jeûne?
+ contexte: Le jeûne est l'abstention de manger et parfois de boire. Dans un contexte purement physiologique, le ""jeûne"" peut se référer à l'état métabolique d'une personne qui n'a pas mangé pendant la nuit (voir ""Petit-déjeuner""), ou à l'état métabolique atteint après la digestion complète et l'absorption d'un repas. Les changements métaboliques dans l'état de jeûne commencent après l'absorption d'un repas (généralement 3 à 5 heures après le repas).",dolly_human_edited,fr
+Écrivez un bref paragraphe sur l'impact de la nutrition sur la santé humaine.,dolly_human_edited,fr
+"Imaginez que vous êtes une mère. Écrivez un scénario pour convaincre votre jeune fils, qui ne veut pas arrêter de jouer, à partir pour l'école.",dolly_human_edited,fr
+"Compte tenu de cette série d'instructions de navigation, déterminez si l'on finirait par revenir au point de départ: Marchez 5 miles vers le sud. Marchez 5 miles vers l'est. Marchez 5 miles vers le nord.",dolly_human_edited,fr
+Écrivez une lettre à mes parents expliquant les raisons pour lesquelles ils devraient m'acheter une tortue,dolly_human_edited,fr
+Écrivez-moi un courriel d'introduction à un avocat pour me représenter au tribunal pour un infraction de feu rouge que je ne mérite pas,dolly_human_edited,fr
+Écrivez un bref paragraphe expliquant pourquoi vous ne devriez pas avoir à la fois un chat et un oiseau comme animaux de compagnie.,dolly_human_edited,fr
+Rédigez un essai sur la question de savoir si les mesures de la politique corona sont bénéfiques pour la société ou non.,dolly_human_edited,fr
+"Racontez une histoire pour un enfant d'un dinosaure qui joue au baseball, mais qui doit faire une pause à cause d'une blessure.",dolly_human_edited,fr
+Quelles sont les différentes façons de rester actif pendant la journée pour lutter contre l'obésité ?,dolly_human_edited,fr
+Écrivez une histoire courte sur un person qui découvre une pièce cachée chez lui. L'histoire devrait inclure une tournure d'intrigue et une résolution claire à la fin.,dolly_human_edited,fr
+Puis-je faire du chocolat à la maison?,dolly_human_edited,fr
+Les sacs et les récipients en plastique nuisent-ils à l'environnement ?,dolly_human_edited,fr
+"Qu'est-ce qui est plus important, l’inné ou l’acquis?",dolly_human_edited,fr
+Décrivez une routine matinale du point de vue d'un enfant de 2 ans.,dolly_human_edited,fr
+Comment planifiez-vous un voyage?,dolly_human_edited,fr
+"Écrivez une histoire courte sur une petite fille qui se lie d'amitié avec un dragon, les pouvoirs magiques du dragon peuvent l'amener dans un autre univers.",dolly_human_edited,fr
+Décrivez la sensation de prendre une douche froide et expliquez la rationalité de quelqu'un qui pourrait en prendre une.,dolly_human_edited,fr
+Pourquoi les gens devraient- ils convertir les pelouses et les jardins d'ornement en plantes indigènes?,dolly_human_edited,fr
+Imaginez que vous devrez passer une semaine sur une île déserte. Quels sont 5 objets que vous emporterez avec vous et pourquoi?,dolly_human_edited,fr
+Quelle est la meilleure façon de faire endormir un tout-petit le soir?,dolly_human_edited,fr
+Écrivez une lettre à ma mère pour la convaincre que je devrais pouvoir avoir un chat.,dolly_human_edited,fr
+Nous vivons-nous dans une simulation? Discutez des deux côtés.,dolly_human_edited,fr
+Les réseaux sociaux sont-ils bons pour toi?,dolly_human_edited,fr
+Écrivez un poème à propos un choix d'un sport.,dolly_human_edited,fr
+C'est comment de vivre sur la lune?,dolly_human_edited,fr
+L'art est-il inutile?,dolly_human_edited,fr
+La caféine est-elle bonne pour la santé mentale?,dolly_human_edited,fr
+Quel genre de bateau devrais-je acheter?,dolly_human_edited,fr
+Quelle est la meilleure routine de soins nocturnes pour la peau?,dolly_human_edited,fr
+C'est quoi un python?,dolly_human_edited,fr
+Comment un transistor amplifie-t-il un signal?,dolly_human_edited,fr
+Puis-je nourrir les chiens avec de la nourriture de table?,dolly_human_edited,fr
+Qu'est-ce que l'artisanat du logiciel?,dolly_human_edited,fr
+La beauté est-elle objective ou subjective?,dolly_human_edited,fr
+Comment puis-je commencer à courir?,dolly_human_edited,fr
+Pourquoi les sacs de chips deviennent-ils rassis après l'ouverture?,dolly_human_edited,fr
+Combien de connaissances en théorie musicale sont-ils nécessaires pour composer de la musique?,dolly_human_edited,fr
+Comment conduis-tu une voiture à transmission manuelle?,dolly_human_edited,fr
+Qu'est-ce que l'air enrichi et pourquoi les plongeurs plongeraient-ils avec de l'air enrichi?,dolly_human_edited,fr
+Comment devrais-je investir mon argent?,dolly_human_edited,fr
+Combien de planètes y a-t-il?,dolly_human_edited,fr
+Pourquoi est-il utile de se concentrer sur la respiration lorsque l'on pratique la pleine conscience?,dolly_human_edited,fr
+Quelle est la meilleure façon d'apprendre à faire du snowboard?,dolly_human_edited,fr
+Comment pourrais-je bouger d'un appartement à l'étage au parking?,dolly_human_edited,fr
+Pourquoi les gens aiment-ils le jardinage?,dolly_human_edited,fr
+Quelle est la meilleure façon d'investir mon argent?,dolly_human_edited,fr
+Qu'est-ce qui fait une bonne photo?,dolly_human_edited,fr
+Pourquoi les cuisiniers utilisent-ils du sel casher?,dolly_human_edited,fr
+Comment les prévisions météorologiques sont-elles réalisées?,dolly_human_edited,fr
+"Quelle est une caractéristique topographique unique de la région autour d'Austin au Texas.
+ contexte: À partir 2021, Austin avait une population estimée à 964 177 habitants, contre 961 855 au recensement de 2020. La ville est le centre culturel et économique de la région statistique métropolitaine d'Austin-Round Rock, qui comptait une population estimée à 2 295 303 habitants au 1er juillet 2020, une augmentation d'environ 84% par rapport à l'année 2000. Situé dans le centre du Texas dans le Texas Hill Country, il abrite de nombreux lacs, rivières et cours d'eau, dont le lac Lady Bird et le lac Travis sur le fleuve Colorado, Barton Springs, McKinney Falls et le lac Walter E. Long.",dolly_human_edited,fr
+"Quelle est la durée de vie moyenne d'un Golden Retriever ?
+context: les Golden Retrievers sont généralement en bonne santé ; leur durée de vie moyenne est de 12 à 13 ans. L'élevage irresponsable pour répondre à la forte demande a conduit à la prévalence de problèmes de santé héréditaires dans certaines lignées de races, y compris des affections cutanées, allergiques, des problèmes oculaires et parfois de la vivacité. Ces problèmes sont rarement rencontrés chez les chiens élevés par des éleveurs responsables.",dolly_human_edited,fr
+"Pourquoi devrais-je utiliser un adoucisseur de tissu ?
+contexte : Le lavage en machine exerce une forte pression mécanique sur les textiles, en particulier les fibres naturelles telles que le coton et la laine. Les fibres à la surface du tissu sont écrasées et déchiquetées, cette condition se durcit pendant le séchage du linge à l'air, donnant au linge une sensation de dureté. L'ajout d'un adoucisseur de tissu liquide au rinçage final (adoucisseur de cycle de rinçage) donne une douceur au linge à laver.",dolly_human_edited,fr
+"Quels sont quelques-uns des éléments communs de la conception visuelle ?
+contexte : Les éléments de création sont les unités de base de toute conception visuelle qui forment sa structure et transmettent des messages visuels. Le peintre et théoricien de la création Maitland E. Graves (1902-1978), qui a tenté de mettre en évidence les principes fondamentaux de l'ordre esthétique dans la création visuelle, dans son livre, The Art of Color and Design (1941), a défini les éléments du design comme ligne, direction, forme, taille, texture, valeur et couleur, concluant que ""ces éléments sont les matériaux à partir desquels tous les modèles sont construits.""",dolly_human_edited,fr
+Qu'est-ce qui fait voler une aile d'avion ?,dolly_human_edited,fr
+Quels sont les services offerts par Microsoft ?,dolly_human_edited,fr
+C'est quoi un piano ?,dolly_human_edited,fr
+Dans quel climat se trouvent habituellement les cactus ?,dolly_human_edited,fr
+Quelle est la source ou la cause de la lumière du Soleil ?,dolly_human_edited,fr
+Pourquoi les chameaux peuvent-ils survivre longtemps sans eau ?,dolly_human_edited,fr
+C'est quoi un polygone ?,dolly_human_edited,fr
+C'est quoi un verbe?,dolly_human_edited,fr
+C'est quoi la souscription?,dolly_human_edited,fr
+Quand la roue a-t-elle été inventée ?,dolly_human_edited,fr
+C'est quoi la banque d'investissement?,dolly_human_edited,fr
+Quels outils chaque propriétaire de maison devrait-il avoir?,dolly_human_edited,fr

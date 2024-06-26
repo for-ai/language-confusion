@@ -1,0 +1,107 @@
+prompt,location,phrasing,language,source
+"Reply in Chinese. Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities",Start,reply in {language_requested},zh,okapi
+"Explain a common misconception about your topic in Chinese.
+Topic: Using AI to Augment Human Capabilities",Middle,in {language_requested},zh,okapi
+"Explain a common misconception about your topic.
+Topic: Using AI to Augment Human Capabilities. Write in Chinese.",End,write in {language_requested},zh,okapi
+Write in Chinese. Explain how the Gini index is calculated.,Start,write in {language_requested},zh,okapi
+Explain in Chinese how the Gini index is calculated.,Middle,in {language_requested},zh,okapi
+Explain how the Gini index is calculated. Respond in Chinese.,End,respond in {language_requested},zh,okapi
+Answer in Chinese. Write four articles on the topic of cryptocurrency with a minimum of 300 words each.,Start,answer in {language_requested},zh,okapi
+Write four articles in Chinese on the topic of cryptocurrency with a minimum of 300 words each.,Middle,in {language_requested},zh,okapi
+Write four articles on the topic of cryptocurrency with a minimum of 300 words each. Answer in Chinese.,End,answer in {language_requested},zh,okapi
+Answer in Chinese. Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence.,Start,answer in {language_requested},zh,okapi
+Generate an essay in Chinese of at least 500 words that argues in favor of regulating artificial intelligence.,Middle,in {language_requested},zh,okapi
+Generate an essay of at least 500 words that argues in favor of regulating artificial intelligence. Reply in Chinese.,End,reply in {language_requested},zh,okapi
+Reply in Chinese. Write an 1850-word horror story.,Start,reply in {language_requested},zh,okapi
+Write an 1850-word horror story in Chinese.,Middle,in {language_requested},zh,okapi
+Write an 1850-word horror story. Write in Chinese.,End,write in {language_requested},zh,okapi
+"Respond in Chinese. Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"".",Start,respond in {language_requested},zh,okapi
+"Write a 500 word report summarizing the article in Chinese: ""The Impact of Brexit on the United Kingdom"".",Middle,in {language_requested},zh,okapi
+"Write a 500 word report summarizing the article: ""The Impact of Brexit on the United Kingdom"". Respond in Chinese.",End,respond in {language_requested},zh,okapi
+Answer in Chinese. Write a 500 word article about the benefits of organic food.,Start,answer in {language_requested},zh,okapi
+Write a 500 word article in Chinese about the benefits of organic food.,Middle,in {language_requested},zh,okapi
+Write a 500 word article about the benefits of organic food. Write in Chinese.,End,write in {language_requested},zh,okapi
+Respond in Chinese. Write a persuasive essay about why the redistribution of wealth is necessary.,Start,respond in {language_requested},zh,okapi
+Write a persuasive essay in Chinese about why the redistribution of wealth is necessary.,Middle,in {language_requested},zh,okapi
+Write a persuasive essay about why the redistribution of wealth is necessary. Answer in Chinese.,End,answer in {language_requested},zh,okapi
+Respond in Chinese. Generate an argumentative essay about the importance of healthy eating.,Start,respond in {language_requested},zh,okapi
+Generate an argumentative essay in Chinese about the importance of healthy eating.,Middle,in {language_requested},zh,okapi
+Generate an argumentative essay about the importance of healthy eating. Write in Chinese.,End,write in {language_requested},zh,okapi
+Answer in Chinese. Write an opinion article on artificial intelligence in 500-700 words.,Start,answer in {language_requested},zh,okapi
+Write an opinion article in Chinese on artificial intelligence in 500-700 words.,Middle,in {language_requested},zh,okapi
+Write an opinion article on artificial intelligence in 500-700 words. Use Chinese.,End,use {language_requested},zh,okapi
+Use Chinese. Generate a creative story which is at least 500 words long.,Start,use {language_requested},zh,okapi
+Generate a creative story in Chinese which is at least 500 words long.,Middle,in {language_requested},zh,okapi
+Generate a creative story which is at least 500 words long. Write in Chinese.,End,write in {language_requested},zh,okapi
+Respond in Chinese. Generate an essay discussing the importance of recycling.,Start,respond in {language_requested},zh,okapi
+Generate an essay in Chinese discussing the importance of recycling.,Middle,in {language_requested},zh,okapi
+Generate an essay discussing the importance of recycling. Write in Chinese.,End,write in {language_requested},zh,okapi
+Write in Chinese. Write a 250-word article summarizing the changes brought about by Brexit.,Start,write in {language_requested},zh,okapi
+Write a 250-word article in Chinese summarizing the changes brought about by Brexit.,Middle,in {language_requested},zh,okapi
+Write a 250-word article summarizing the changes brought about by Brexit. Write in Chinese.,End,write in {language_requested},zh,okapi
+Use Chinese. Generate a 500-word story about a man who finds himself in an unfamiliar city.,Start,use {language_requested},zh,okapi
+Generate a 500-word story in Chinese about a man who finds himself in an unfamiliar city.,Middle,in {language_requested},zh,okapi
+Generate a 500-word story about a man who finds himself in an unfamiliar city. Reply in Chinese.,End,reply in {language_requested},zh,okapi
+Reply in Chinese. Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Start,reply in {language_requested},zh,okapi
+Generate a science fiction story in Chinese of 500 words with the following prompt: A computer virus is released that allows people to travel through time,Middle,in {language_requested},zh,okapi
+Generate a science fiction story of 500 words with the following prompt: A computer virus is released that allows people to travel through time. Use Chinese.,End,use {language_requested},zh,okapi
+"Reply in Chinese. Write a 500-word article on the topic of ""Effective Communication Skills"".",Start,reply in {language_requested},zh,okapi
+"Write a 500-word article in Chinese on the topic of ""Effective Communication Skills"".",Middle,in {language_requested},zh,okapi
+"Write a 500-word article on the topic of ""Effective Communication Skills"". Reply in Chinese.",End,reply in {language_requested},zh,okapi
+Reply in Chinese. Generate an essay of 500 words on the topic of machine learning.,Start,reply in {language_requested},zh,okapi
+Generate an essay in Chinese of 500 words on the topic of machine learning.,Middle,in {language_requested},zh,okapi
+Generate an essay of 500 words on the topic of machine learning. Use Chinese.,End,use {language_requested},zh,okapi
+Respond in Chinese. Compose a 500 word essay discussing the pros and cons of genetically modified food,Start,respond in {language_requested},zh,okapi
+Compose a 500 word essay in Chinese discussing the pros and cons of genetically modified food,Middle,in {language_requested},zh,okapi
+Compose a 500 word essay discussing the pros and cons of genetically modified food. Write in Chinese.,End,write in {language_requested},zh,okapi
+Respond in Chinese. Write a 500 word essay on the causes of poverty.,Start,respond in {language_requested},zh,okapi
+Write a 500 word essay in Chinese on the causes of poverty.,Middle,in {language_requested},zh,okapi
+Write a 500 word essay on the causes of poverty. Reply in Chinese.,End,reply in {language_requested},zh,okapi
+Answer in Chinese. Write a blog post advocating for teaching students coding skills in school.,Start,answer in {language_requested},zh,okapi
+Write a blog post in Chinese advocating for teaching students coding skills in school.,Middle,in {language_requested},zh,okapi
+Write a blog post advocating for teaching students coding skills in school. Answer in Chinese.,End,answer in {language_requested},zh,okapi
+Write in Chinese. Identify three types of government assistance that could help startups during the economic downturn.,Start,write in {language_requested},zh,okapi
+Identify in Chinese three types of government assistance that could help startups during the economic downturn.,Middle,in {language_requested},zh,okapi
+Identify three types of government assistance that could help startups during the economic downturn. Answer in Chinese.,End,answer in {language_requested},zh,okapi
+Write in Chinese. Write a 500-word story in the horror genre.,Start,write in {language_requested},zh,okapi
+Write a 500-word story in Chinese in the horror genre.,Middle,in {language_requested},zh,okapi
+Write a 500-word story in the horror genre. Answer in Chinese.,End,answer in {language_requested},zh,okapi
+Reply in Chinese. Generate a blog post of 500 words or less that discusses a chosen topic,Start,reply in {language_requested},zh,okapi
+Generate a blog post in Chinese of 500 words or less that discusses a chosen topic,Middle,in {language_requested},zh,okapi
+Generate a blog post of 500 words or less that discusses a chosen topic. Respond in Chinese.,End,respond in {language_requested},zh,okapi
+"Answer in Chinese. Compose an essay from the given statement.
+The importance of music education in our lives.",Start,answer in {language_requested},zh,okapi
+"Compose an essay in Chinese from the given statement.
+The importance of music education in our lives.",Middle,in {language_requested},zh,okapi
+"Compose an essay from the given statement.
+The importance of music education in our lives. Reply in Chinese.",End,reply in {language_requested},zh,okapi
+Answer in Chinese. Write a 250 word essay about Coral Reef Conservation,Start,answer in {language_requested},zh,okapi
+Write a 250 word essay in Chinese about Coral Reef Conservation,Middle,in {language_requested},zh,okapi
+Write a 250 word essay about Coral Reef Conservation. Use Chinese.,End,use {language_requested},zh,okapi
+Reply in Chinese. Create a recipe for a delicious and healthy vegan three-course meal.,Start,reply in {language_requested},zh,okapi
+Create a recipe in Chinese for a delicious and healthy vegan three-course meal.,Middle,in {language_requested},zh,okapi
+Create a recipe for a delicious and healthy vegan three-course meal. Respond in Chinese.,End,respond in {language_requested},zh,okapi
+"Use Chinese. Turn this sentence into a metaphor: ""The night sky was a blanket of stars"".",Start,use {language_requested},zh,okapi
+"Turn this sentence into a metaphor in Chinese: ""The night sky was a blanket of stars"".",Middle,in {language_requested},zh,okapi
+"Turn this sentence into a metaphor: ""The night sky was a blanket of stars"". Respond in Chinese.",End,respond in {language_requested},zh,okapi
+Respond in Chinese. Write a 3-page article discussing the impact of COVID-19 on the global economy,Start,respond in {language_requested},zh,okapi
+Write a 3-page article in Chinese discussing the impact of COVID-19 on the global economy,Middle,in {language_requested},zh,okapi
+Write a 3-page article discussing the impact of COVID-19 on the global economy. Answer in Chinese.,End,answer in {language_requested},zh,okapi
+Use Chinese. Write a sample essay of 500 words on the topic of artificial intelligence.,Start,use {language_requested},zh,okapi
+Write a sample essay in Chinese of 500 words on the topic of artificial intelligence.,Middle,in {language_requested},zh,okapi
+Write a sample essay of 500 words on the topic of artificial intelligence. Respond in Chinese.,End,respond in {language_requested},zh,okapi
+Reply in Chinese. Write a short persuasive essay about the importance of voting.,Start,reply in {language_requested},zh,okapi
+Write a short persuasive essay in Chinese about the importance of voting.,Middle,in {language_requested},zh,okapi
+Write a short persuasive essay about the importance of voting. Write in Chinese.,End,write in {language_requested},zh,okapi
+Use Chinese. Generate a blog post of at least 500 words about machine learning.,Start,use {language_requested},zh,okapi
+Generate a blog post in Chinese of at least 500 words about machine learning.,Middle,in {language_requested},zh,okapi
+Generate a blog post of at least 500 words about machine learning. Write in Chinese.,End,write in {language_requested},zh,okapi
+Reply in Chinese. Write a blog post discussing the key ethical considerations of AI autonomous weapons.,Start,reply in {language_requested},zh,okapi
+Write a blog post in Chinese discussing the key ethical considerations of AI autonomous weapons.,Middle,in {language_requested},zh,okapi
+Write a blog post discussing the key ethical considerations of AI autonomous weapons. Respond in Chinese.,End,respond in {language_requested},zh,okapi
+Reply in Chinese. Generate a scientific report of  900 words discussing the effects of global warming on the Arctic,Start,reply in {language_requested},zh,okapi
+Generate a scientific report in Chinese of  900 words discussing the effects of global warming on the Arctic,Middle,in {language_requested},zh,okapi
+Generate a scientific report of  900 words discussing the effects of global warming on the Arctic. Use Chinese.,End,use {language_requested},zh,okapi
+Write in Chinese. Create a story for a children's book about a crocodile.,Start,write in {language_requested},zh,okapi
