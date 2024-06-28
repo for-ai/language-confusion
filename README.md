@@ -44,7 +44,7 @@ We use fastText as line-level language ID detector and the English word list in 
 
 ## Using the Benchmark
 
-You can obtain completions using your preferred LLM API or use the completions we provide in `outputs`. 
+You can obtain completions using your preferred LLM API or use the completions we provide in `outputs`.
 
 We provide a script to calculate LPR and WPR metrics based on output files:
 
@@ -54,6 +54,9 @@ cd language-confusion
 python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+
+# View the test sets
+unzip test_sets.zip
 
 # Compute and print LPR and WPR for Command R+
 python compute_metrics.py outputs/command-r-plus.csv
